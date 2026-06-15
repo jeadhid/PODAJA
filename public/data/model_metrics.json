@@ -1,0 +1,14 @@
+{
+  "hbstm": {
+    "rmse": 8.42,
+    "mape": 7.15
+  },
+  "lstm": {
+    "rmse": 5.24,
+    "mape": 4.32
+  },
+  "xgboost": {
+    "rmse": 9.87,
+    "mape": 8.64
+  }
+}

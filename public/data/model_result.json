@@ -1,0 +1,380 @@
+[
+    {
+        "kecamatan_name": "Cakung",
+        "latitude": -6.18883103566297,
+        "longitude": 106.940363849239,
+        "mean_pm10_hbstm": 38.4744430248946,
+        "pm10_hbstm_uncertainty": 33.1750964812099,
+        "xgb_pm10": 42.408,
+        "lstm_pm10": 47.332
+    },
+    {
+        "kecamatan_name": "Cempaka Putih",
+        "latitude": -6.18130584683932,
+        "longitude": 106.868056740423,
+        "mean_pm10_hbstm": 37.8177143632365,
+        "pm10_hbstm_uncertainty": 27.8983995664424,
+        "xgb_pm10": 41.011,
+        "lstm_pm10": 40.637
+    },
+    {
+        "kecamatan_name": "Cengkareng",
+        "latitude": -6.15218688943171,
+        "longitude": 106.736700582961,
+        "mean_pm10_hbstm": 36.0489845452728,
+        "pm10_hbstm_uncertainty": 32.5452271233811,
+        "xgb_pm10": 30.74,
+        "lstm_pm10": 48.26
+    },
+    {
+        "kecamatan_name": "Cilandak",
+        "latitude": -6.29265856436684,
+        "longitude": 106.793367463248,
+        "mean_pm10_hbstm": 33.9745349877542,
+        "pm10_hbstm_uncertainty": 28.4638450432926,
+        "xgb_pm10": 36.36,
+        "lstm_pm10": 37.222
+    },
+    {
+        "kecamatan_name": "Cilincing",
+        "latitude": -6.12684377878254,
+        "longitude": 106.94374761619,
+        "mean_pm10_hbstm": 37.023742488304,
+        "pm10_hbstm_uncertainty": 33.6647838092328,
+        "xgb_pm10": 43.373,
+        "lstm_pm10": 45.274
+    },
+    {
+        "kecamatan_name": "Cipayung",
+        "latitude": -6.32530550931632,
+        "longitude": 106.903531623937,
+        "mean_pm10_hbstm": 40.6397980535774,
+        "pm10_hbstm_uncertainty": 33.367790419735,
+        "xgb_pm10": 49.839,
+        "lstm_pm10": 49.114
+    },
+    {
+        "kecamatan_name": "Ciracas",
+        "latitude": -6.33350442381912,
+        "longitude": 106.878291877513,
+        "mean_pm10_hbstm": 37.6368349880861,
+        "pm10_hbstm_uncertainty": 31.1247347282447,
+        "xgb_pm10": 49.839,
+        "lstm_pm10": 46.899
+    },
+    {
+        "kecamatan_name": "Duren Sawit",
+        "latitude": -6.23258498956934,
+        "longitude": 106.92058685815,
+        "mean_pm10_hbstm": 41.379040659964,
+        "pm10_hbstm_uncertainty": 35.3078831371656,
+        "xgb_pm10": 49.666,
+        "lstm_pm10": 47.715
+    },
+    {
+        "kecamatan_name": "Gambir",
+        "latitude": -6.17136144351376,
+        "longitude": 106.817944455334,
+        "mean_pm10_hbstm": 36.9749401429176,
+        "pm10_hbstm_uncertainty": 24.8899114227995,
+        "xgb_pm10": 29.996,
+        "lstm_pm10": 33.71
+    },
+    {
+        "kecamatan_name": "Grogol Petamburan",
+        "latitude": -6.16323262664348,
+        "longitude": 106.786438828185,
+        "mean_pm10_hbstm": 36.1115346844369,
+        "pm10_hbstm_uncertainty": 27.5789814588304,
+        "xgb_pm10": 29.996,
+        "lstm_pm10": 35.641
+    },
+    {
+        "kecamatan_name": "Jagakarsa",
+        "latitude": -6.33382670768632,
+        "longitude": 106.822412858576,
+        "mean_pm10_hbstm": 30.5171865670585,
+        "pm10_hbstm_uncertainty": 15.74040575447,
+        "xgb_pm10": 36.36,
+        "lstm_pm10": 40.944
+    },
+    {
+        "kecamatan_name": "Jatinegara",
+        "latitude": -6.22780401887955,
+        "longitude": 106.877555103761,
+        "mean_pm10_hbstm": 39.9577558449942,
+        "pm10_hbstm_uncertainty": 34.3357514307956,
+        "xgb_pm10": 48.24,
+        "lstm_pm10": 43.891
+    },
+    {
+        "kecamatan_name": "Johar Baru",
+        "latitude": -6.18220073145087,
+        "longitude": 106.85470455948,
+        "mean_pm10_hbstm": 37.6929264212103,
+        "pm10_hbstm_uncertainty": 27.3438072308123,
+        "xgb_pm10": 41.011,
+        "lstm_pm10": 38.781
+    },
+    {
+        "kecamatan_name": "Kalideres",
+        "latitude": -6.13452665239036,
+        "longitude": 106.704328720666,
+        "mean_pm10_hbstm": 36.3316761470434,
+        "pm10_hbstm_uncertainty": 38.0582900734814,
+        "xgb_pm10": 30.74,
+        "lstm_pm10": 49.511
+    },
+    {
+        "kecamatan_name": "Kebayoran Baru",
+        "latitude": -6.24481312455198,
+        "longitude": 106.801501500932,
+        "mean_pm10_hbstm": 35.7997872307854,
+        "pm10_hbstm_uncertainty": 28.2885277224483,
+        "xgb_pm10": 34.905,
+        "lstm_pm10": 36.1
+    },
+    {
+        "kecamatan_name": "Kebayoran Lama",
+        "latitude": -6.26212427204431,
+        "longitude": 106.777947434095,
+        "mean_pm10_hbstm": 35.1793555599672,
+        "pm10_hbstm_uncertainty": 29.5969066354945,
+        "xgb_pm10": 34.905,
+        "lstm_pm10": 35.722
+    },
+    {
+        "kecamatan_name": "Kebon Jeruk",
+        "latitude": -6.18890823553636,
+        "longitude": 106.769136494407,
+        "mean_pm10_hbstm": 35.3507327319854,
+        "pm10_hbstm_uncertainty": 19.8327076872478,
+        "xgb_pm10": 29.996,
+        "lstm_pm10": 40.797
+    },
+    {
+        "kecamatan_name": "Kelapa Gading",
+        "latitude": -6.16086194217766,
+        "longitude": 106.903347535256,
+        "mean_pm10_hbstm": 37.0236291258969,
+        "pm10_hbstm_uncertainty": 20.2759268963392,
+        "xgb_pm10": 41.011,
+        "lstm_pm10": 43.772
+    },
+    {
+        "kecamatan_name": "Kemayoran",
+        "latitude": -6.16288665374969,
+        "longitude": 106.856093675611,
+        "mean_pm10_hbstm": 37.3108183918786,
+        "pm10_hbstm_uncertainty": 30.1950220450951,
+        "xgb_pm10": 41.011,
+        "lstm_pm10": 37.611
+    },
+    {
+        "kecamatan_name": "Kembangan",
+        "latitude": -6.19824869386398,
+        "longitude": 106.741756027747,
+        "mean_pm10_hbstm": 35.5407661383917,
+        "pm10_hbstm_uncertainty": 27.3902610125996,
+        "xgb_pm10": 34.905,
+        "lstm_pm10": 47.914
+    },
+    {
+        "kecamatan_name": "Koja",
+        "latitude": -6.1210789858339,
+        "longitude": 106.904984266314,
+        "mean_pm10_hbstm": 36.7694631222725,
+        "pm10_hbstm_uncertainty": 29.8157214285504,
+        "xgb_pm10": 43.773,
+        "lstm_pm10": 41.623
+    },
+    {
+        "kecamatan_name": "Kramat Jati",
+        "latitude": -6.27604753448634,
+        "longitude": 106.865291295722,
+        "mean_pm10_hbstm": 39.9410851573378,
+        "pm10_hbstm_uncertainty": 31.1340673941644,
+        "xgb_pm10": 48.24,
+        "lstm_pm10": 44.126
+    },
+    {
+        "kecamatan_name": "Makasar",
+        "latitude": -6.26659520431838,
+        "longitude": 106.891182087933,
+        "mean_pm10_hbstm": 43.3741642990055,
+        "pm10_hbstm_uncertainty": 30.8005501848899,
+        "xgb_pm10": 48.24,
+        "lstm_pm10": 46.453
+    },
+    {
+        "kecamatan_name": "Mampang Prapatan",
+        "latitude": -6.25210236856015,
+        "longitude": 106.821022171563,
+        "mean_pm10_hbstm": 36.5679405895282,
+        "pm10_hbstm_uncertainty": 30.0387865001043,
+        "xgb_pm10": 34.905,
+        "lstm_pm10": 38.292
+    },
+    {
+        "kecamatan_name": "Matraman",
+        "latitude": -6.20404219515199,
+        "longitude": 106.864413903399,
+        "mean_pm10_hbstm": 38.4388822534829,
+        "pm10_hbstm_uncertainty": 29.1459442552516,
+        "xgb_pm10": 48.24,
+        "lstm_pm10": 41.393
+    },
+    {
+        "kecamatan_name": "Menteng",
+        "latitude": -6.19566122408079,
+        "longitude": 106.834995214605,
+        "mean_pm10_hbstm": 37.6074937411811,
+        "pm10_hbstm_uncertainty": 22.3516052871277,
+        "xgb_pm10": 41.74,
+        "lstm_pm10": 36.929
+    },
+    {
+        "kecamatan_name": "Pademangan",
+        "latitude": -6.12946547929774,
+        "longitude": 106.837422189501,
+        "mean_pm10_hbstm": 36.8063966736988,
+        "pm10_hbstm_uncertainty": 32.3120670969295,
+        "xgb_pm10": 41.945,
+        "lstm_pm10": 33.039
+    },
+    {
+        "kecamatan_name": "Palmerah",
+        "latitude": -6.19180803878504,
+        "longitude": 106.795580367081,
+        "mean_pm10_hbstm": 36.1349504565957,
+        "pm10_hbstm_uncertainty": 19.6562838969079,
+        "xgb_pm10": 29.996,
+        "lstm_pm10": 33.966
+    },
+    {
+        "kecamatan_name": "Pancoran",
+        "latitude": -6.25537202917653,
+        "longitude": 106.843560147955,
+        "mean_pm10_hbstm": 37.9722061946818,
+        "pm10_hbstm_uncertainty": 30.9751011714098,
+        "xgb_pm10": 48.24,
+        "lstm_pm10": 41.034
+    },
+    {
+        "kecamatan_name": "Pasar Minggu",
+        "latitude": -6.29066018079194,
+        "longitude": 106.829336396118,
+        "mean_pm10_hbstm": 35.0062257523708,
+        "pm10_hbstm_uncertainty": 28.4197297408173,
+        "xgb_pm10": 49.839,
+        "lstm_pm10": 40.612
+    },
+    {
+        "kecamatan_name": "Pasar Rebo",
+        "latitude": -6.32701763842087,
+        "longitude": 106.856850863495,
+        "mean_pm10_hbstm": 35.2265826491696,
+        "pm10_hbstm_uncertainty": 24.962117686981,
+        "xgb_pm10": 49.839,
+        "lstm_pm10": 44.482
+    },
+    {
+        "kecamatan_name": "Penjaringan",
+        "latitude": -6.11827451838084,
+        "longitude": 106.766539915383,
+        "mean_pm10_hbstm": 36.4046347033211,
+        "pm10_hbstm_uncertainty": 34.4737679955855,
+        "xgb_pm10": 30.74,
+        "lstm_pm10": 46.882
+    },
+    {
+        "kecamatan_name": "Pesanggrahan",
+        "latitude": -6.24999553924926,
+        "longitude": 106.758645692337,
+        "mean_pm10_hbstm": 35.1671353843554,
+        "pm10_hbstm_uncertainty": 30.4571832819548,
+        "xgb_pm10": 34.905,
+        "lstm_pm10": 39.397
+    },
+    {
+        "kecamatan_name": "Pulo Gadung",
+        "latitude": -6.19352210313696,
+        "longitude": 106.888829295419,
+        "mean_pm10_hbstm": 38.4841151246221,
+        "pm10_hbstm_uncertainty": 29.5117653622227,
+        "xgb_pm10": 41.74,
+        "lstm_pm10": 43.757
+    },
+    {
+        "kecamatan_name": "Sawah Besar",
+        "latitude": -6.15378194428036,
+        "longitude": 106.833203867138,
+        "mean_pm10_hbstm": 36.9830248258489,
+        "pm10_hbstm_uncertainty": 28.592067761728,
+        "xgb_pm10": 41.945,
+        "lstm_pm10": 34.027
+    },
+    {
+        "kecamatan_name": "Senen",
+        "latitude": -6.18423295109396,
+        "longitude": 106.845850524744,
+        "mean_pm10_hbstm": 37.6353945947498,
+        "pm10_hbstm_uncertainty": 27.550354672479,
+        "xgb_pm10": 41.011,
+        "lstm_pm10": 37.646
+    },
+    {
+        "kecamatan_name": "Setiabudi",
+        "latitude": -6.22448145319391,
+        "longitude": 106.83097468248,
+        "mean_pm10_hbstm": 37.4673792516869,
+        "pm10_hbstm_uncertainty": 28.3305753525154,
+        "xgb_pm10": 48.24,
+        "lstm_pm10": 37.18
+    },
+    {
+        "kecamatan_name": "Tamansari",
+        "latitude": -6.14833152323766,
+        "longitude": 106.818351654206,
+        "mean_pm10_hbstm": 36.7390242834233,
+        "pm10_hbstm_uncertainty": 30.5861069843801,
+        "xgb_pm10": 30.74,
+        "lstm_pm10": 32.665
+    },
+    {
+        "kecamatan_name": "Tambora",
+        "latitude": -6.14739187596189,
+        "longitude": 106.803361024449,
+        "mean_pm10_hbstm": 36.5366221984942,
+        "pm10_hbstm_uncertainty": 32.1912535407014,
+        "xgb_pm10": 30.74,
+        "lstm_pm10": 32.755
+    },
+    {
+        "kecamatan_name": "Tanah Abang",
+        "latitude": -6.20546874073124,
+        "longitude": 106.809268222434,
+        "mean_pm10_hbstm": 36.6477079532082,
+        "pm10_hbstm_uncertainty": 21.6315979570258,
+        "xgb_pm10": 34.905,
+        "lstm_pm10": 34.837
+    },
+    {
+        "kecamatan_name": "Tanjung Priok",
+        "latitude": -6.13207678123948,
+        "longitude": 106.874874772332,
+        "mean_pm10_hbstm": 36.8249531206071,
+        "pm10_hbstm_uncertainty": 29.9303202146474,
+        "xgb_pm10": 41.945,
+        "lstm_pm10": 38.042
+    },
+    {
+        "kecamatan_name": "Tebet",
+        "latitude": -6.22888705839282,
+        "longitude": 106.85074720588,
+        "mean_pm10_hbstm": 38.5809535445,
+        "pm10_hbstm_uncertainty": 30.8151324380683,
+        "xgb_pm10": 48.24,
+        "lstm_pm10": 40.827
+    }
+]

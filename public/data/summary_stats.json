@@ -1,0 +1,47 @@
+[
+  {
+    "tahun": 2021,
+    "total_wilayah": 67,
+    "avg_pm10": 65.59,
+    "highest_area": "Tugu Utara",
+    "highest_value": 79.8,
+    "lowest_area": "Kepulauan Seribu",
+    "lowest_value": 26.4
+  },
+  {
+    "tahun": 2022,
+    "total_wilayah": 67,
+    "avg_pm10": 71.85,
+    "highest_area": "Rawabadak Selatan",
+    "highest_value": 86.9,
+    "lowest_area": "Kepulauan Seribu",
+    "lowest_value": 27.6
+  },
+  {
+    "tahun": 2023,
+    "total_wilayah": 67,
+    "avg_pm10": 86.7,
+    "highest_area": "Sukapura",
+    "highest_value": 103.2,
+    "lowest_area": "Kepulauan Seribu",
+    "lowest_value": 26.7
+  },
+  {
+    "tahun": 2024,
+    "total_wilayah": 67,
+    "avg_pm10": 77.6,
+    "highest_area": "Rawabadak Selatan",
+    "highest_value": 93.2,
+    "lowest_area": "Kepulauan Seribu",
+    "lowest_value": 21.4
+  },
+  {
+    "tahun": 2025,
+    "total_wilayah": 67,
+    "avg_pm10": 70.38,
+    "highest_area": "Kelapagading Timur",
+    "highest_value": 84.7,
+    "lowest_area": "Kepulauan Seribu",
+    "lowest_value": 22.6
+  }
+]

@@ -1,0 +1,3017 @@
+[
+  {
+    "id_wilayah": "W-01",
+    "nama_wilayah": "Cengkareng",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 55.4,
+    "avg_pm10_lstm": 53.9,
+    "avg_pm10_xgboost": 60.2,
+    "avg_pm10_ensemble": 55.8
+  },
+  {
+    "id_wilayah": "W-02",
+    "nama_wilayah": "Grogol Petamburan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 63.3,
+    "avg_pm10_lstm": 60.2,
+    "avg_pm10_xgboost": 54.7,
+    "avg_pm10_ensemble": 60.3
+  },
+  {
+    "id_wilayah": "W-03",
+    "nama_wilayah": "Kalideres",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 60.1,
+    "avg_pm10_lstm": 56.1,
+    "avg_pm10_xgboost": 61.1,
+    "avg_pm10_ensemble": 56.7
+  },
+  {
+    "id_wilayah": "W-04",
+    "nama_wilayah": "Kebon Jeruk",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 59.7,
+    "avg_pm10_lstm": 57.5,
+    "avg_pm10_xgboost": 55.9,
+    "avg_pm10_ensemble": 59.7
+  },
+  {
+    "id_wilayah": "W-05",
+    "nama_wilayah": "Kembangan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 64.5,
+    "avg_pm10_lstm": 57.1,
+    "avg_pm10_xgboost": 59.1,
+    "avg_pm10_ensemble": 60.2
+  },
+  {
+    "id_wilayah": "W-06",
+    "nama_wilayah": "Palmerah",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 60,
+    "avg_pm10_lstm": 57.2,
+    "avg_pm10_xgboost": 54.8,
+    "avg_pm10_ensemble": 58.2
+  },
+  {
+    "id_wilayah": "W-07",
+    "nama_wilayah": "Taman Sari",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 68.5,
+    "avg_pm10_lstm": 61,
+    "avg_pm10_xgboost": 58.1,
+    "avg_pm10_ensemble": 63.7
+  },
+  {
+    "id_wilayah": "W-08",
+    "nama_wilayah": "Tambora",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 68.5,
+    "avg_pm10_lstm": 65.3,
+    "avg_pm10_xgboost": 68.5,
+    "avg_pm10_ensemble": 67.4
+  },
+  {
+    "id_wilayah": "W-09",
+    "nama_wilayah": "Cempaka Putih",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 60.6,
+    "avg_pm10_lstm": 59.9,
+    "avg_pm10_xgboost": 64.5,
+    "avg_pm10_ensemble": 62.2
+  },
+  {
+    "id_wilayah": "W-10",
+    "nama_wilayah": "Gambir",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 55.2,
+    "avg_pm10_lstm": 57,
+    "avg_pm10_xgboost": 62.4,
+    "avg_pm10_ensemble": 56.5
+  },
+  {
+    "id_wilayah": "W-11",
+    "nama_wilayah": "Johar Baru",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 60.1,
+    "avg_pm10_lstm": 62,
+    "avg_pm10_xgboost": 57.5,
+    "avg_pm10_ensemble": 61.1
+  },
+  {
+    "id_wilayah": "W-12",
+    "nama_wilayah": "Kemayoran",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 69.4,
+    "avg_pm10_lstm": 66.6,
+    "avg_pm10_xgboost": 69.4,
+    "avg_pm10_ensemble": 67.5
+  },
+  {
+    "id_wilayah": "W-13",
+    "nama_wilayah": "Menteng",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 63.7,
+    "avg_pm10_lstm": 58.5,
+    "avg_pm10_xgboost": 65.4,
+    "avg_pm10_ensemble": 60.6
+  },
+  {
+    "id_wilayah": "W-14",
+    "nama_wilayah": "Sawah Besar",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 71.6,
+    "avg_pm10_lstm": 70.3,
+    "avg_pm10_xgboost": 68.8,
+    "avg_pm10_ensemble": 70.1
+  },
+  {
+    "id_wilayah": "W-15",
+    "nama_wilayah": "Senen",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 63,
+    "avg_pm10_lstm": 63,
+    "avg_pm10_xgboost": 60.1,
+    "avg_pm10_ensemble": 65.7
+  },
+  {
+    "id_wilayah": "W-16",
+    "nama_wilayah": "Tanah Abang",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 58.6,
+    "avg_pm10_lstm": 55.8,
+    "avg_pm10_xgboost": 56.2,
+    "avg_pm10_ensemble": 59.1
+  },
+  {
+    "id_wilayah": "W-17",
+    "nama_wilayah": "Cilandak",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 45.5,
+    "avg_pm10_lstm": 44.2,
+    "avg_pm10_xgboost": 40.7,
+    "avg_pm10_ensemble": 46
+  },
+  {
+    "id_wilayah": "W-18",
+    "nama_wilayah": "Jagakarsa",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 42.3,
+    "avg_pm10_lstm": 39.2,
+    "avg_pm10_xgboost": 46.7,
+    "avg_pm10_ensemble": 42.5
+  },
+  {
+    "id_wilayah": "W-19",
+    "nama_wilayah": "Kebayoran Baru",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 47.7,
+    "avg_pm10_lstm": 51.5,
+    "avg_pm10_xgboost": 55.3,
+    "avg_pm10_ensemble": 50.5
+  },
+  {
+    "id_wilayah": "W-20",
+    "nama_wilayah": "Kebayoran Lama",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 54.1,
+    "avg_pm10_lstm": 55.3,
+    "avg_pm10_xgboost": 60,
+    "avg_pm10_ensemble": 56.1
+  },
+  {
+    "id_wilayah": "W-21",
+    "nama_wilayah": "Mampang Prapatan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 57.3,
+    "avg_pm10_lstm": 53.6,
+    "avg_pm10_xgboost": 59.1,
+    "avg_pm10_ensemble": 53.3
+  },
+  {
+    "id_wilayah": "W-22",
+    "nama_wilayah": "Pancoran",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 51.9,
+    "avg_pm10_lstm": 53.9,
+    "avg_pm10_xgboost": 53.7,
+    "avg_pm10_ensemble": 53.1
+  },
+  {
+    "id_wilayah": "W-23",
+    "nama_wilayah": "Pasar Minggu",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 57.1,
+    "avg_pm10_lstm": 50.3,
+    "avg_pm10_xgboost": 57.6,
+    "avg_pm10_ensemble": 53
+  },
+  {
+    "id_wilayah": "W-24",
+    "nama_wilayah": "Pesanggrahan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 45.4,
+    "avg_pm10_lstm": 45.9,
+    "avg_pm10_xgboost": 48.2,
+    "avg_pm10_ensemble": 43.8
+  },
+  {
+    "id_wilayah": "W-25",
+    "nama_wilayah": "Setia Budi",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 52.9,
+    "avg_pm10_lstm": 49.4,
+    "avg_pm10_xgboost": 45.9,
+    "avg_pm10_ensemble": 48.4
+  },
+  {
+    "id_wilayah": "W-26",
+    "nama_wilayah": "Tebet",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 50.5,
+    "avg_pm10_lstm": 42.7,
+    "avg_pm10_xgboost": 48.5,
+    "avg_pm10_ensemble": 45.8
+  },
+  {
+    "id_wilayah": "W-27",
+    "nama_wilayah": "Cakung",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 71.5,
+    "avg_pm10_lstm": 72.9,
+    "avg_pm10_xgboost": 80.2,
+    "avg_pm10_ensemble": 74.6
+  },
+  {
+    "id_wilayah": "W-28",
+    "nama_wilayah": "Cipayung",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 75.7,
+    "avg_pm10_lstm": 73,
+    "avg_pm10_xgboost": 74.4,
+    "avg_pm10_ensemble": 74.7
+  },
+  {
+    "id_wilayah": "W-29",
+    "nama_wilayah": "Ciracas",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 68.4,
+    "avg_pm10_lstm": 68.2,
+    "avg_pm10_xgboost": 73,
+    "avg_pm10_ensemble": 69.1
+  },
+  {
+    "id_wilayah": "W-30",
+    "nama_wilayah": "Duren Sawit",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 70.6,
+    "avg_pm10_lstm": 71.6,
+    "avg_pm10_xgboost": 68.7,
+    "avg_pm10_ensemble": 72.4
+  },
+  {
+    "id_wilayah": "W-31",
+    "nama_wilayah": "Jatinegara",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 69.2,
+    "avg_pm10_lstm": 64.1,
+    "avg_pm10_xgboost": 65.9,
+    "avg_pm10_ensemble": 64.4
+  },
+  {
+    "id_wilayah": "W-32",
+    "nama_wilayah": "Kramatjati",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 66.3,
+    "avg_pm10_lstm": 69.5,
+    "avg_pm10_xgboost": 65.5,
+    "avg_pm10_ensemble": 68.9
+  },
+  {
+    "id_wilayah": "W-33",
+    "nama_wilayah": "Makasar",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 74.7,
+    "avg_pm10_lstm": 68.7,
+    "avg_pm10_xgboost": 70.5,
+    "avg_pm10_ensemble": 70.5
+  },
+  {
+    "id_wilayah": "W-34",
+    "nama_wilayah": "Matraman",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 72,
+    "avg_pm10_lstm": 74.3,
+    "avg_pm10_xgboost": 71,
+    "avg_pm10_ensemble": 74.8
+  },
+  {
+    "id_wilayah": "W-35",
+    "nama_wilayah": "Pasar Rebo",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 66.4,
+    "avg_pm10_lstm": 66.7,
+    "avg_pm10_xgboost": 60.5,
+    "avg_pm10_ensemble": 66.3
+  },
+  {
+    "id_wilayah": "W-36",
+    "nama_wilayah": "Pulo Gadung",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 69.6,
+    "avg_pm10_lstm": 70.1,
+    "avg_pm10_xgboost": 73.5,
+    "avg_pm10_ensemble": 71.4
+  },
+  {
+    "id_wilayah": "W-37",
+    "nama_wilayah": "Kapukmuara",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 78.2,
+    "avg_pm10_lstm": 74,
+    "avg_pm10_xgboost": 74.8,
+    "avg_pm10_ensemble": 77.1
+  },
+  {
+    "id_wilayah": "W-38",
+    "nama_wilayah": "Warakas",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 70.1,
+    "avg_pm10_lstm": 70.8,
+    "avg_pm10_xgboost": 67.5,
+    "avg_pm10_ensemble": 73.1
+  },
+  {
+    "id_wilayah": "W-39",
+    "nama_wilayah": "Pegangsaandua",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 72.6,
+    "avg_pm10_lstm": 71.1,
+    "avg_pm10_xgboost": 71.2,
+    "avg_pm10_ensemble": 73.6
+  },
+  {
+    "id_wilayah": "W-40",
+    "nama_wilayah": "Ancol",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 72.3,
+    "avg_pm10_lstm": 72.7,
+    "avg_pm10_xgboost": 70.6,
+    "avg_pm10_ensemble": 72.9
+  },
+  {
+    "id_wilayah": "W-41",
+    "nama_wilayah": "Sunteragung",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 77.1,
+    "avg_pm10_lstm": 77,
+    "avg_pm10_xgboost": 72.8,
+    "avg_pm10_ensemble": 76.7
+  },
+  {
+    "id_wilayah": "W-42",
+    "nama_wilayah": "Pademangan Timur",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 65.5,
+    "avg_pm10_lstm": 65.5,
+    "avg_pm10_xgboost": 61.6,
+    "avg_pm10_ensemble": 66.8
+  },
+  {
+    "id_wilayah": "W-43",
+    "nama_wilayah": "Kelapagading Barat",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 73.5,
+    "avg_pm10_lstm": 73.4,
+    "avg_pm10_xgboost": 71,
+    "avg_pm10_ensemble": 72.9
+  },
+  {
+    "id_wilayah": "W-44",
+    "nama_wilayah": "Sungaibambu",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 73.9,
+    "avg_pm10_lstm": 72.9,
+    "avg_pm10_xgboost": 78.9,
+    "avg_pm10_ensemble": 73.8
+  },
+  {
+    "id_wilayah": "W-45",
+    "nama_wilayah": "Rawabadak Selatan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 82.1,
+    "avg_pm10_lstm": 78.3,
+    "avg_pm10_xgboost": 83.2,
+    "avg_pm10_ensemble": 77.6
+  },
+  {
+    "id_wilayah": "W-46",
+    "nama_wilayah": "Sunterjaya",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 75.3,
+    "avg_pm10_lstm": 78,
+    "avg_pm10_xgboost": 78.6,
+    "avg_pm10_ensemble": 77.8
+  },
+  {
+    "id_wilayah": "W-47",
+    "nama_wilayah": "Tugu Selatan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 77.9,
+    "avg_pm10_lstm": 74.1,
+    "avg_pm10_xgboost": 71.6,
+    "avg_pm10_ensemble": 75.5
+  },
+  {
+    "id_wilayah": "W-48",
+    "nama_wilayah": "Lagoa",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 65.9,
+    "avg_pm10_lstm": 64,
+    "avg_pm10_xgboost": 68.1,
+    "avg_pm10_ensemble": 66.4
+  },
+  {
+    "id_wilayah": "W-49",
+    "nama_wilayah": "Kelapagading Timur",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 67.4,
+    "avg_pm10_lstm": 65,
+    "avg_pm10_xgboost": 68.3,
+    "avg_pm10_ensemble": 68.5
+  },
+  {
+    "id_wilayah": "W-50",
+    "nama_wilayah": "Tugu Utara",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 77.3,
+    "avg_pm10_lstm": 77,
+    "avg_pm10_xgboost": 75.9,
+    "avg_pm10_ensemble": 79.8
+  },
+  {
+    "id_wilayah": "W-51",
+    "nama_wilayah": "Pademangan Barat",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 66.7,
+    "avg_pm10_lstm": 65.2,
+    "avg_pm10_xgboost": 68.7,
+    "avg_pm10_ensemble": 65.5
+  },
+  {
+    "id_wilayah": "W-52",
+    "nama_wilayah": "Pejagalan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 71.5,
+    "avg_pm10_lstm": 73.9,
+    "avg_pm10_xgboost": 68.8,
+    "avg_pm10_ensemble": 72.4
+  },
+  {
+    "id_wilayah": "W-53",
+    "nama_wilayah": "Papanggo",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 75.6,
+    "avg_pm10_lstm": 73.5,
+    "avg_pm10_xgboost": 77.3,
+    "avg_pm10_ensemble": 72.1
+  },
+  {
+    "id_wilayah": "W-54",
+    "nama_wilayah": "Kamalmuara",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 74.6,
+    "avg_pm10_lstm": 70.6,
+    "avg_pm10_xgboost": 65.6,
+    "avg_pm10_ensemble": 71.2
+  },
+  {
+    "id_wilayah": "W-55",
+    "nama_wilayah": "Rawabadak Utara",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 64.9,
+    "avg_pm10_lstm": 66,
+    "avg_pm10_xgboost": 66.1,
+    "avg_pm10_ensemble": 67.5
+  },
+  {
+    "id_wilayah": "W-56",
+    "nama_wilayah": "Kebonbawang",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 68.8,
+    "avg_pm10_lstm": 65.3,
+    "avg_pm10_xgboost": 62.7,
+    "avg_pm10_ensemble": 67.4
+  },
+  {
+    "id_wilayah": "W-57",
+    "nama_wilayah": "Koja",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 74.3,
+    "avg_pm10_lstm": 70.6,
+    "avg_pm10_xgboost": 72.8,
+    "avg_pm10_ensemble": 70
+  },
+  {
+    "id_wilayah": "W-58",
+    "nama_wilayah": "Tanjung Priok",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 70.2,
+    "avg_pm10_lstm": 69.9,
+    "avg_pm10_xgboost": 71.4,
+    "avg_pm10_ensemble": 72.8
+  },
+  {
+    "id_wilayah": "W-59",
+    "nama_wilayah": "Pluit",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 82,
+    "avg_pm10_lstm": 76.9,
+    "avg_pm10_xgboost": 83,
+    "avg_pm10_ensemble": 77.6
+  },
+  {
+    "id_wilayah": "W-60",
+    "nama_wilayah": "Kalibaru",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 81.6,
+    "avg_pm10_lstm": 78.8,
+    "avg_pm10_xgboost": 80.8,
+    "avg_pm10_ensemble": 77.6
+  },
+  {
+    "id_wilayah": "W-61",
+    "nama_wilayah": "Marunda",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 76.6,
+    "avg_pm10_lstm": 71.8,
+    "avg_pm10_xgboost": 76,
+    "avg_pm10_ensemble": 74.5
+  },
+  {
+    "id_wilayah": "W-62",
+    "nama_wilayah": "Semper Timur",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 79.9,
+    "avg_pm10_lstm": 73.9,
+    "avg_pm10_xgboost": 80.7,
+    "avg_pm10_ensemble": 76.9
+  },
+  {
+    "id_wilayah": "W-63",
+    "nama_wilayah": "Rorotan",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 62.9,
+    "avg_pm10_lstm": 63.1,
+    "avg_pm10_xgboost": 65,
+    "avg_pm10_ensemble": 65.8
+  },
+  {
+    "id_wilayah": "W-64",
+    "nama_wilayah": "Semper Barat",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 75,
+    "avg_pm10_lstm": 79.8,
+    "avg_pm10_xgboost": 83,
+    "avg_pm10_ensemble": 78.2
+  },
+  {
+    "id_wilayah": "W-65",
+    "nama_wilayah": "Cilincing",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 77,
+    "avg_pm10_lstm": 71.6,
+    "avg_pm10_xgboost": 68,
+    "avg_pm10_ensemble": 73.1
+  },
+  {
+    "id_wilayah": "W-66",
+    "nama_wilayah": "Sukapura",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 71.9,
+    "avg_pm10_lstm": 70.5,
+    "avg_pm10_xgboost": 70.9,
+    "avg_pm10_ensemble": 68.8
+  },
+  {
+    "id_wilayah": "W-67",
+    "nama_wilayah": "Kepulauan Seribu",
+    "tahun": 2021,
+    "avg_pm10_hbstm": 28.2,
+    "avg_pm10_lstm": 24,
+    "avg_pm10_xgboost": 21.5,
+    "avg_pm10_ensemble": 26.4
+  },
+  {
+    "id_wilayah": "W-01",
+    "nama_wilayah": "Cengkareng",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 64,
+    "avg_pm10_lstm": 66.5,
+    "avg_pm10_xgboost": 67.6,
+    "avg_pm10_ensemble": 64.9
+  },
+  {
+    "id_wilayah": "W-02",
+    "nama_wilayah": "Grogol Petamburan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 72.9,
+    "avg_pm10_lstm": 68,
+    "avg_pm10_xgboost": 69.6,
+    "avg_pm10_ensemble": 71.4
+  },
+  {
+    "id_wilayah": "W-03",
+    "nama_wilayah": "Kalideres",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 72.8,
+    "avg_pm10_lstm": 73.6,
+    "avg_pm10_xgboost": 75.2,
+    "avg_pm10_ensemble": 72
+  },
+  {
+    "id_wilayah": "W-04",
+    "nama_wilayah": "Kebon Jeruk",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 64.3,
+    "avg_pm10_lstm": 63.2,
+    "avg_pm10_xgboost": 68.9,
+    "avg_pm10_ensemble": 65.7
+  },
+  {
+    "id_wilayah": "W-05",
+    "nama_wilayah": "Kembangan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 71.1,
+    "avg_pm10_lstm": 72.6,
+    "avg_pm10_xgboost": 74.8,
+    "avg_pm10_ensemble": 73.7
+  },
+  {
+    "id_wilayah": "W-06",
+    "nama_wilayah": "Palmerah",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 69.3,
+    "avg_pm10_lstm": 66.7,
+    "avg_pm10_xgboost": 70.8,
+    "avg_pm10_ensemble": 69
+  },
+  {
+    "id_wilayah": "W-07",
+    "nama_wilayah": "Taman Sari",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 72.6,
+    "avg_pm10_lstm": 71.2,
+    "avg_pm10_xgboost": 75.4,
+    "avg_pm10_ensemble": 74.6
+  },
+  {
+    "id_wilayah": "W-08",
+    "nama_wilayah": "Tambora",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 66.6,
+    "avg_pm10_lstm": 67.8,
+    "avg_pm10_xgboost": 71.1,
+    "avg_pm10_ensemble": 67.8
+  },
+  {
+    "id_wilayah": "W-09",
+    "nama_wilayah": "Cempaka Putih",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 64.3,
+    "avg_pm10_lstm": 66.3,
+    "avg_pm10_xgboost": 71.7,
+    "avg_pm10_ensemble": 65.8
+  },
+  {
+    "id_wilayah": "W-10",
+    "nama_wilayah": "Gambir",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 68.8,
+    "avg_pm10_lstm": 68.9,
+    "avg_pm10_xgboost": 64.7,
+    "avg_pm10_ensemble": 66.5
+  },
+  {
+    "id_wilayah": "W-11",
+    "nama_wilayah": "Johar Baru",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 69.7,
+    "avg_pm10_lstm": 64.6,
+    "avg_pm10_xgboost": 71,
+    "avg_pm10_ensemble": 67
+  },
+  {
+    "id_wilayah": "W-12",
+    "nama_wilayah": "Kemayoran",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 73,
+    "avg_pm10_lstm": 72.9,
+    "avg_pm10_xgboost": 74,
+    "avg_pm10_ensemble": 72.5
+  },
+  {
+    "id_wilayah": "W-13",
+    "nama_wilayah": "Menteng",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 73.6,
+    "avg_pm10_lstm": 76.6,
+    "avg_pm10_xgboost": 78.8,
+    "avg_pm10_ensemble": 74.8
+  },
+  {
+    "id_wilayah": "W-14",
+    "nama_wilayah": "Sawah Besar",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 73.4,
+    "avg_pm10_lstm": 70.3,
+    "avg_pm10_xgboost": 65.6,
+    "avg_pm10_ensemble": 71.6
+  },
+  {
+    "id_wilayah": "W-15",
+    "nama_wilayah": "Senen",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 61.8,
+    "avg_pm10_lstm": 60.4,
+    "avg_pm10_xgboost": 69.4,
+    "avg_pm10_ensemble": 63.8
+  },
+  {
+    "id_wilayah": "W-16",
+    "nama_wilayah": "Tanah Abang",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 65.1,
+    "avg_pm10_lstm": 65.8,
+    "avg_pm10_xgboost": 71.1,
+    "avg_pm10_ensemble": 67.9
+  },
+  {
+    "id_wilayah": "W-17",
+    "nama_wilayah": "Cilandak",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 51.1,
+    "avg_pm10_lstm": 48.7,
+    "avg_pm10_xgboost": 50.1,
+    "avg_pm10_ensemble": 51.9
+  },
+  {
+    "id_wilayah": "W-18",
+    "nama_wilayah": "Jagakarsa",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 49.7,
+    "avg_pm10_lstm": 54,
+    "avg_pm10_xgboost": 58.3,
+    "avg_pm10_ensemble": 52.5
+  },
+  {
+    "id_wilayah": "W-19",
+    "nama_wilayah": "Kebayoran Baru",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 50.5,
+    "avg_pm10_lstm": 49.4,
+    "avg_pm10_xgboost": 51.4,
+    "avg_pm10_ensemble": 47.6
+  },
+  {
+    "id_wilayah": "W-20",
+    "nama_wilayah": "Kebayoran Lama",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 49.7,
+    "avg_pm10_lstm": 50.6,
+    "avg_pm10_xgboost": 47.9,
+    "avg_pm10_ensemble": 49.2
+  },
+  {
+    "id_wilayah": "W-21",
+    "nama_wilayah": "Mampang Prapatan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 62.4,
+    "avg_pm10_lstm": 62.7,
+    "avg_pm10_xgboost": 64.8,
+    "avg_pm10_ensemble": 60.4
+  },
+  {
+    "id_wilayah": "W-22",
+    "nama_wilayah": "Pancoran",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 53.4,
+    "avg_pm10_lstm": 50.4,
+    "avg_pm10_xgboost": 55.9,
+    "avg_pm10_ensemble": 50.7
+  },
+  {
+    "id_wilayah": "W-23",
+    "nama_wilayah": "Pasar Minggu",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 58.7,
+    "avg_pm10_lstm": 62.3,
+    "avg_pm10_xgboost": 64.2,
+    "avg_pm10_ensemble": 60.6
+  },
+  {
+    "id_wilayah": "W-24",
+    "nama_wilayah": "Pesanggrahan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 60.2,
+    "avg_pm10_lstm": 57.4,
+    "avg_pm10_xgboost": 61.2,
+    "avg_pm10_ensemble": 55.8
+  },
+  {
+    "id_wilayah": "W-25",
+    "nama_wilayah": "Setia Budi",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 64.2,
+    "avg_pm10_lstm": 59.4,
+    "avg_pm10_xgboost": 57.4,
+    "avg_pm10_ensemble": 61.3
+  },
+  {
+    "id_wilayah": "W-26",
+    "nama_wilayah": "Tebet",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 59.1,
+    "avg_pm10_lstm": 62.4,
+    "avg_pm10_xgboost": 57.6,
+    "avg_pm10_ensemble": 61.7
+  },
+  {
+    "id_wilayah": "W-27",
+    "nama_wilayah": "Cakung",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 67.4,
+    "avg_pm10_lstm": 70.3,
+    "avg_pm10_xgboost": 70.3,
+    "avg_pm10_ensemble": 68.1
+  },
+  {
+    "id_wilayah": "W-28",
+    "nama_wilayah": "Cipayung",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 75.3,
+    "avg_pm10_lstm": 75.2,
+    "avg_pm10_xgboost": 79.1,
+    "avg_pm10_ensemble": 75.9
+  },
+  {
+    "id_wilayah": "W-29",
+    "nama_wilayah": "Ciracas",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 73.3,
+    "avg_pm10_lstm": 74.2,
+    "avg_pm10_xgboost": 68.4,
+    "avg_pm10_ensemble": 72.8
+  },
+  {
+    "id_wilayah": "W-30",
+    "nama_wilayah": "Duren Sawit",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 71.1,
+    "avg_pm10_lstm": 68.2,
+    "avg_pm10_xgboost": 65.6,
+    "avg_pm10_ensemble": 70.6
+  },
+  {
+    "id_wilayah": "W-31",
+    "nama_wilayah": "Jatinegara",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 84.1,
+    "avg_pm10_lstm": 83,
+    "avg_pm10_xgboost": 77.9,
+    "avg_pm10_ensemble": 82.9
+  },
+  {
+    "id_wilayah": "W-32",
+    "nama_wilayah": "Kramatjati",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 71.6,
+    "avg_pm10_lstm": 66.8,
+    "avg_pm10_xgboost": 72.4,
+    "avg_pm10_ensemble": 69.1
+  },
+  {
+    "id_wilayah": "W-33",
+    "nama_wilayah": "Makasar",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 81.1,
+    "avg_pm10_lstm": 81.4,
+    "avg_pm10_xgboost": 81.4,
+    "avg_pm10_ensemble": 82
+  },
+  {
+    "id_wilayah": "W-34",
+    "nama_wilayah": "Matraman",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 69.6,
+    "avg_pm10_lstm": 66.2,
+    "avg_pm10_xgboost": 70.7,
+    "avg_pm10_ensemble": 68.7
+  },
+  {
+    "id_wilayah": "W-35",
+    "nama_wilayah": "Pasar Rebo",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 76.3,
+    "avg_pm10_lstm": 70.7,
+    "avg_pm10_xgboost": 77.7,
+    "avg_pm10_ensemble": 74.2
+  },
+  {
+    "id_wilayah": "W-36",
+    "nama_wilayah": "Pulo Gadung",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 70.5,
+    "avg_pm10_lstm": 71.2,
+    "avg_pm10_xgboost": 75.9,
+    "avg_pm10_ensemble": 70.7
+  },
+  {
+    "id_wilayah": "W-37",
+    "nama_wilayah": "Kapukmuara",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 77.9,
+    "avg_pm10_lstm": 78.8,
+    "avg_pm10_xgboost": 75.3,
+    "avg_pm10_ensemble": 80.5
+  },
+  {
+    "id_wilayah": "W-38",
+    "nama_wilayah": "Warakas",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 71.4,
+    "avg_pm10_lstm": 69.5,
+    "avg_pm10_xgboost": 78.6,
+    "avg_pm10_ensemble": 72.9
+  },
+  {
+    "id_wilayah": "W-39",
+    "nama_wilayah": "Pegangsaandua",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 75,
+    "avg_pm10_lstm": 74.9,
+    "avg_pm10_xgboost": 81.9,
+    "avg_pm10_ensemble": 76.7
+  },
+  {
+    "id_wilayah": "W-40",
+    "nama_wilayah": "Ancol",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 78.8,
+    "avg_pm10_lstm": 75.8,
+    "avg_pm10_xgboost": 77.2,
+    "avg_pm10_ensemble": 77.5
+  },
+  {
+    "id_wilayah": "W-41",
+    "nama_wilayah": "Sunteragung",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 81.3,
+    "avg_pm10_lstm": 76.8,
+    "avg_pm10_xgboost": 78.3,
+    "avg_pm10_ensemble": 79.3
+  },
+  {
+    "id_wilayah": "W-42",
+    "nama_wilayah": "Pademangan Timur",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 76,
+    "avg_pm10_lstm": 72.9,
+    "avg_pm10_xgboost": 73.5,
+    "avg_pm10_ensemble": 76.1
+  },
+  {
+    "id_wilayah": "W-43",
+    "nama_wilayah": "Kelapagading Barat",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 81.9,
+    "avg_pm10_lstm": 78,
+    "avg_pm10_xgboost": 78.7,
+    "avg_pm10_ensemble": 79.6
+  },
+  {
+    "id_wilayah": "W-44",
+    "nama_wilayah": "Sungaibambu",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 79.1,
+    "avg_pm10_lstm": 80.7,
+    "avg_pm10_xgboost": 80.2,
+    "avg_pm10_ensemble": 78.8
+  },
+  {
+    "id_wilayah": "W-45",
+    "nama_wilayah": "Rawabadak Selatan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 89.4,
+    "avg_pm10_lstm": 89.1,
+    "avg_pm10_xgboost": 80.9,
+    "avg_pm10_ensemble": 86.9
+  },
+  {
+    "id_wilayah": "W-46",
+    "nama_wilayah": "Sunterjaya",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 75.6,
+    "avg_pm10_lstm": 73.5,
+    "avg_pm10_xgboost": 69.1,
+    "avg_pm10_ensemble": 73.7
+  },
+  {
+    "id_wilayah": "W-47",
+    "nama_wilayah": "Tugu Selatan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 82.8,
+    "avg_pm10_lstm": 80.4,
+    "avg_pm10_xgboost": 82,
+    "avg_pm10_ensemble": 83
+  },
+  {
+    "id_wilayah": "W-48",
+    "nama_wilayah": "Lagoa",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 75.9,
+    "avg_pm10_lstm": 77.8,
+    "avg_pm10_xgboost": 76.1,
+    "avg_pm10_ensemble": 77.5
+  },
+  {
+    "id_wilayah": "W-49",
+    "nama_wilayah": "Kelapagading Timur",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 73.3,
+    "avg_pm10_lstm": 75.7,
+    "avg_pm10_xgboost": 82.2,
+    "avg_pm10_ensemble": 76.4
+  },
+  {
+    "id_wilayah": "W-50",
+    "nama_wilayah": "Tugu Utara",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 71.8,
+    "avg_pm10_lstm": 71.3,
+    "avg_pm10_xgboost": 71.4,
+    "avg_pm10_ensemble": 73.9
+  },
+  {
+    "id_wilayah": "W-51",
+    "nama_wilayah": "Pademangan Barat",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 81.9,
+    "avg_pm10_lstm": 81.7,
+    "avg_pm10_xgboost": 76.7,
+    "avg_pm10_ensemble": 80.7
+  },
+  {
+    "id_wilayah": "W-52",
+    "nama_wilayah": "Pejagalan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 80.4,
+    "avg_pm10_lstm": 74.4,
+    "avg_pm10_xgboost": 76.3,
+    "avg_pm10_ensemble": 76.8
+  },
+  {
+    "id_wilayah": "W-53",
+    "nama_wilayah": "Papanggo",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 88.7,
+    "avg_pm10_lstm": 87.2,
+    "avg_pm10_xgboost": 88.9,
+    "avg_pm10_ensemble": 85.2
+  },
+  {
+    "id_wilayah": "W-54",
+    "nama_wilayah": "Kamalmuara",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 85.7,
+    "avg_pm10_lstm": 81.5,
+    "avg_pm10_xgboost": 80.5,
+    "avg_pm10_ensemble": 84.9
+  },
+  {
+    "id_wilayah": "W-55",
+    "nama_wilayah": "Rawabadak Utara",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 73.2,
+    "avg_pm10_lstm": 72.3,
+    "avg_pm10_xgboost": 72.5,
+    "avg_pm10_ensemble": 73.6
+  },
+  {
+    "id_wilayah": "W-56",
+    "nama_wilayah": "Kebonbawang",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 79.9,
+    "avg_pm10_lstm": 78.2,
+    "avg_pm10_xgboost": 80.1,
+    "avg_pm10_ensemble": 81.1
+  },
+  {
+    "id_wilayah": "W-57",
+    "nama_wilayah": "Koja",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 88.9,
+    "avg_pm10_lstm": 87.4,
+    "avg_pm10_xgboost": 85.2,
+    "avg_pm10_ensemble": 86.6
+  },
+  {
+    "id_wilayah": "W-58",
+    "nama_wilayah": "Tanjung Priok",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 71.3,
+    "avg_pm10_lstm": 72.3,
+    "avg_pm10_xgboost": 69.6,
+    "avg_pm10_ensemble": 73.6
+  },
+  {
+    "id_wilayah": "W-59",
+    "nama_wilayah": "Pluit",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 87.5,
+    "avg_pm10_lstm": 88.9,
+    "avg_pm10_xgboost": 88.3,
+    "avg_pm10_ensemble": 86.8
+  },
+  {
+    "id_wilayah": "W-60",
+    "nama_wilayah": "Kalibaru",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 89.1,
+    "avg_pm10_lstm": 87,
+    "avg_pm10_xgboost": 80.1,
+    "avg_pm10_ensemble": 86
+  },
+  {
+    "id_wilayah": "W-61",
+    "nama_wilayah": "Marunda",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 80.5,
+    "avg_pm10_lstm": 82.7,
+    "avg_pm10_xgboost": 85.9,
+    "avg_pm10_ensemble": 82.5
+  },
+  {
+    "id_wilayah": "W-62",
+    "nama_wilayah": "Semper Timur",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 81.7,
+    "avg_pm10_lstm": 85.4,
+    "avg_pm10_xgboost": 85.5,
+    "avg_pm10_ensemble": 84.1
+  },
+  {
+    "id_wilayah": "W-63",
+    "nama_wilayah": "Rorotan",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 71,
+    "avg_pm10_lstm": 72,
+    "avg_pm10_xgboost": 74.4,
+    "avg_pm10_ensemble": 73
+  },
+  {
+    "id_wilayah": "W-64",
+    "nama_wilayah": "Semper Barat",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 76.3,
+    "avg_pm10_lstm": 74.4,
+    "avg_pm10_xgboost": 75.8,
+    "avg_pm10_ensemble": 72.6
+  },
+  {
+    "id_wilayah": "W-65",
+    "nama_wilayah": "Cilincing",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 85.6,
+    "avg_pm10_lstm": 82.8,
+    "avg_pm10_xgboost": 83.4,
+    "avg_pm10_ensemble": 85.9
+  },
+  {
+    "id_wilayah": "W-66",
+    "nama_wilayah": "Sukapura",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 88.3,
+    "avg_pm10_lstm": 84.9,
+    "avg_pm10_xgboost": 84.2,
+    "avg_pm10_ensemble": 84.4
+  },
+  {
+    "id_wilayah": "W-67",
+    "nama_wilayah": "Kepulauan Seribu",
+    "tahun": 2022,
+    "avg_pm10_hbstm": 26,
+    "avg_pm10_lstm": 24.5,
+    "avg_pm10_xgboost": 25.8,
+    "avg_pm10_ensemble": 27.6
+  },
+  {
+    "id_wilayah": "W-01",
+    "nama_wilayah": "Cengkareng",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 82.4,
+    "avg_pm10_lstm": 79.5,
+    "avg_pm10_xgboost": 79.5,
+    "avg_pm10_ensemble": 78.7
+  },
+  {
+    "id_wilayah": "W-02",
+    "nama_wilayah": "Grogol Petamburan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 80.3,
+    "avg_pm10_lstm": 81.7,
+    "avg_pm10_xgboost": 85.6,
+    "avg_pm10_ensemble": 83.2
+  },
+  {
+    "id_wilayah": "W-03",
+    "nama_wilayah": "Kalideres",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 85.6,
+    "avg_pm10_lstm": 82.9,
+    "avg_pm10_xgboost": 77.4,
+    "avg_pm10_ensemble": 81.9
+  },
+  {
+    "id_wilayah": "W-04",
+    "nama_wilayah": "Kebon Jeruk",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 76,
+    "avg_pm10_lstm": 78.8,
+    "avg_pm10_xgboost": 76.9,
+    "avg_pm10_ensemble": 77.8
+  },
+  {
+    "id_wilayah": "W-05",
+    "nama_wilayah": "Kembangan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 75.6,
+    "avg_pm10_lstm": 75.5,
+    "avg_pm10_xgboost": 80.9,
+    "avg_pm10_ensemble": 75.5
+  },
+  {
+    "id_wilayah": "W-06",
+    "nama_wilayah": "Palmerah",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 79.5,
+    "avg_pm10_lstm": 81.3,
+    "avg_pm10_xgboost": 83.8,
+    "avg_pm10_ensemble": 81
+  },
+  {
+    "id_wilayah": "W-07",
+    "nama_wilayah": "Taman Sari",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 73.7,
+    "avg_pm10_lstm": 76.4,
+    "avg_pm10_xgboost": 80.4,
+    "avg_pm10_ensemble": 76.6
+  },
+  {
+    "id_wilayah": "W-08",
+    "nama_wilayah": "Tambora",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 79.7,
+    "avg_pm10_lstm": 79.2,
+    "avg_pm10_xgboost": 74.2,
+    "avg_pm10_ensemble": 78.1
+  },
+  {
+    "id_wilayah": "W-09",
+    "nama_wilayah": "Cempaka Putih",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 83.8,
+    "avg_pm10_lstm": 83.9,
+    "avg_pm10_xgboost": 87.1,
+    "avg_pm10_ensemble": 81.5
+  },
+  {
+    "id_wilayah": "W-10",
+    "nama_wilayah": "Gambir",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 93.3,
+    "avg_pm10_lstm": 87.1,
+    "avg_pm10_xgboost": 88.2,
+    "avg_pm10_ensemble": 88.6
+  },
+  {
+    "id_wilayah": "W-11",
+    "nama_wilayah": "Johar Baru",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 87.9,
+    "avg_pm10_lstm": 90.9,
+    "avg_pm10_xgboost": 94.4,
+    "avg_pm10_ensemble": 89.5
+  },
+  {
+    "id_wilayah": "W-12",
+    "nama_wilayah": "Kemayoran",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 87.3,
+    "avg_pm10_lstm": 85.4,
+    "avg_pm10_xgboost": 82.5,
+    "avg_pm10_ensemble": 85.2
+  },
+  {
+    "id_wilayah": "W-13",
+    "nama_wilayah": "Menteng",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 86.1,
+    "avg_pm10_lstm": 83.5,
+    "avg_pm10_xgboost": 76.1,
+    "avg_pm10_ensemble": 82.1
+  },
+  {
+    "id_wilayah": "W-14",
+    "nama_wilayah": "Sawah Besar",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 87.6,
+    "avg_pm10_lstm": 84.1,
+    "avg_pm10_xgboost": 89.2,
+    "avg_pm10_ensemble": 87.7
+  },
+  {
+    "id_wilayah": "W-15",
+    "nama_wilayah": "Senen",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 77.6,
+    "avg_pm10_lstm": 82.7,
+    "avg_pm10_xgboost": 79.5,
+    "avg_pm10_ensemble": 80.5
+  },
+  {
+    "id_wilayah": "W-16",
+    "nama_wilayah": "Tanah Abang",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 77.9,
+    "avg_pm10_lstm": 80,
+    "avg_pm10_xgboost": 76.3,
+    "avg_pm10_ensemble": 79
+  },
+  {
+    "id_wilayah": "W-17",
+    "nama_wilayah": "Cilandak",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 60.6,
+    "avg_pm10_lstm": 61.8,
+    "avg_pm10_xgboost": 59.1,
+    "avg_pm10_ensemble": 63.3
+  },
+  {
+    "id_wilayah": "W-18",
+    "nama_wilayah": "Jagakarsa",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 63.1,
+    "avg_pm10_lstm": 61.8,
+    "avg_pm10_xgboost": 58.6,
+    "avg_pm10_ensemble": 59.5
+  },
+  {
+    "id_wilayah": "W-19",
+    "nama_wilayah": "Kebayoran Baru",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 74.3,
+    "avg_pm10_lstm": 71.6,
+    "avg_pm10_xgboost": 69.8,
+    "avg_pm10_ensemble": 70.3
+  },
+  {
+    "id_wilayah": "W-20",
+    "nama_wilayah": "Kebayoran Lama",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 69.2,
+    "avg_pm10_lstm": 64.6,
+    "avg_pm10_xgboost": 60.4,
+    "avg_pm10_ensemble": 65.8
+  },
+  {
+    "id_wilayah": "W-21",
+    "nama_wilayah": "Mampang Prapatan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 73.3,
+    "avg_pm10_lstm": 70.2,
+    "avg_pm10_xgboost": 66.9,
+    "avg_pm10_ensemble": 68.6
+  },
+  {
+    "id_wilayah": "W-22",
+    "nama_wilayah": "Pancoran",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 71.1,
+    "avg_pm10_lstm": 71.9,
+    "avg_pm10_xgboost": 66.8,
+    "avg_pm10_ensemble": 69.9
+  },
+  {
+    "id_wilayah": "W-23",
+    "nama_wilayah": "Pasar Minggu",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 65.1,
+    "avg_pm10_lstm": 62.4,
+    "avg_pm10_xgboost": 65.3,
+    "avg_pm10_ensemble": 61.2
+  },
+  {
+    "id_wilayah": "W-24",
+    "nama_wilayah": "Pesanggrahan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 76.8,
+    "avg_pm10_lstm": 75.2,
+    "avg_pm10_xgboost": 68.5,
+    "avg_pm10_ensemble": 73.1
+  },
+  {
+    "id_wilayah": "W-25",
+    "nama_wilayah": "Setia Budi",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 69.3,
+    "avg_pm10_lstm": 67.6,
+    "avg_pm10_xgboost": 72.9,
+    "avg_pm10_ensemble": 70.2
+  },
+  {
+    "id_wilayah": "W-26",
+    "nama_wilayah": "Tebet",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 62.6,
+    "avg_pm10_lstm": 57.3,
+    "avg_pm10_xgboost": 55.5,
+    "avg_pm10_ensemble": 60
+  },
+  {
+    "id_wilayah": "W-27",
+    "nama_wilayah": "Cakung",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 93.7,
+    "avg_pm10_lstm": 89.7,
+    "avg_pm10_xgboost": 84.8,
+    "avg_pm10_ensemble": 89.2
+  },
+  {
+    "id_wilayah": "W-28",
+    "nama_wilayah": "Cipayung",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 90,
+    "avg_pm10_lstm": 90.4,
+    "avg_pm10_xgboost": 92.4,
+    "avg_pm10_ensemble": 89.4
+  },
+  {
+    "id_wilayah": "W-29",
+    "nama_wilayah": "Ciracas",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 94.8,
+    "avg_pm10_lstm": 88.6,
+    "avg_pm10_xgboost": 95.1,
+    "avg_pm10_ensemble": 91.4
+  },
+  {
+    "id_wilayah": "W-30",
+    "nama_wilayah": "Duren Sawit",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 89.8,
+    "avg_pm10_lstm": 88.4,
+    "avg_pm10_xgboost": 88.6,
+    "avg_pm10_ensemble": 91.5
+  },
+  {
+    "id_wilayah": "W-31",
+    "nama_wilayah": "Jatinegara",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 94.5,
+    "avg_pm10_lstm": 89.6,
+    "avg_pm10_xgboost": 97.9,
+    "avg_pm10_ensemble": 92.7
+  },
+  {
+    "id_wilayah": "W-32",
+    "nama_wilayah": "Kramatjati",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 93.6,
+    "avg_pm10_lstm": 96.1,
+    "avg_pm10_xgboost": 93.5,
+    "avg_pm10_ensemble": 95.1
+  },
+  {
+    "id_wilayah": "W-33",
+    "nama_wilayah": "Makasar",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 89.7,
+    "avg_pm10_lstm": 88,
+    "avg_pm10_xgboost": 93.4,
+    "avg_pm10_ensemble": 88.9
+  },
+  {
+    "id_wilayah": "W-34",
+    "nama_wilayah": "Matraman",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 90.5,
+    "avg_pm10_lstm": 92.6,
+    "avg_pm10_xgboost": 97.2,
+    "avg_pm10_ensemble": 92.2
+  },
+  {
+    "id_wilayah": "W-35",
+    "nama_wilayah": "Pasar Rebo",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 91.4,
+    "avg_pm10_lstm": 95.6,
+    "avg_pm10_xgboost": 92.4,
+    "avg_pm10_ensemble": 94.5
+  },
+  {
+    "id_wilayah": "W-36",
+    "nama_wilayah": "Pulo Gadung",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 92.4,
+    "avg_pm10_lstm": 92.2,
+    "avg_pm10_xgboost": 87.2,
+    "avg_pm10_ensemble": 90.2
+  },
+  {
+    "id_wilayah": "W-37",
+    "nama_wilayah": "Kapukmuara",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 90.5,
+    "avg_pm10_lstm": 88,
+    "avg_pm10_xgboost": 89.3,
+    "avg_pm10_ensemble": 91.2
+  },
+  {
+    "id_wilayah": "W-38",
+    "nama_wilayah": "Warakas",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 90.2,
+    "avg_pm10_lstm": 95.3,
+    "avg_pm10_xgboost": 91.6,
+    "avg_pm10_ensemble": 93.1
+  },
+  {
+    "id_wilayah": "W-39",
+    "nama_wilayah": "Pegangsaandua",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 92,
+    "avg_pm10_lstm": 94.8,
+    "avg_pm10_xgboost": 88.3,
+    "avg_pm10_ensemble": 92.8
+  },
+  {
+    "id_wilayah": "W-40",
+    "nama_wilayah": "Ancol",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 97.7,
+    "avg_pm10_lstm": 97.7,
+    "avg_pm10_xgboost": 101.9,
+    "avg_pm10_ensemble": 98.4
+  },
+  {
+    "id_wilayah": "W-41",
+    "nama_wilayah": "Sunteragung",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 98,
+    "avg_pm10_lstm": 98.7,
+    "avg_pm10_xgboost": 94,
+    "avg_pm10_ensemble": 99.8
+  },
+  {
+    "id_wilayah": "W-42",
+    "nama_wilayah": "Pademangan Timur",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 93.2,
+    "avg_pm10_lstm": 94,
+    "avg_pm10_xgboost": 101.6,
+    "avg_pm10_ensemble": 95.9
+  },
+  {
+    "id_wilayah": "W-43",
+    "nama_wilayah": "Kelapagading Barat",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 99.8,
+    "avg_pm10_lstm": 99.2,
+    "avg_pm10_xgboost": 103.4,
+    "avg_pm10_ensemble": 100.3
+  },
+  {
+    "id_wilayah": "W-44",
+    "nama_wilayah": "Sungaibambu",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 100.8,
+    "avg_pm10_lstm": 96.7,
+    "avg_pm10_xgboost": 93.2,
+    "avg_pm10_ensemble": 96.6
+  },
+  {
+    "id_wilayah": "W-45",
+    "nama_wilayah": "Rawabadak Selatan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 105.3,
+    "avg_pm10_lstm": 97.2,
+    "avg_pm10_xgboost": 100.2,
+    "avg_pm10_ensemble": 100.8
+  },
+  {
+    "id_wilayah": "W-46",
+    "nama_wilayah": "Sunterjaya",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 100.8,
+    "avg_pm10_lstm": 96.6,
+    "avg_pm10_xgboost": 99.2,
+    "avg_pm10_ensemble": 99.5
+  },
+  {
+    "id_wilayah": "W-47",
+    "nama_wilayah": "Tugu Selatan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 93.8,
+    "avg_pm10_lstm": 94.5,
+    "avg_pm10_xgboost": 99.2,
+    "avg_pm10_ensemble": 95.6
+  },
+  {
+    "id_wilayah": "W-48",
+    "nama_wilayah": "Lagoa",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 94.9,
+    "avg_pm10_lstm": 91.7,
+    "avg_pm10_xgboost": 95.9,
+    "avg_pm10_ensemble": 93
+  },
+  {
+    "id_wilayah": "W-49",
+    "nama_wilayah": "Kelapagading Timur",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 90.9,
+    "avg_pm10_lstm": 92.5,
+    "avg_pm10_xgboost": 95.7,
+    "avg_pm10_ensemble": 90.2
+  },
+  {
+    "id_wilayah": "W-50",
+    "nama_wilayah": "Tugu Utara",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 90.3,
+    "avg_pm10_lstm": 90.2,
+    "avg_pm10_xgboost": 87.6,
+    "avg_pm10_ensemble": 92.1
+  },
+  {
+    "id_wilayah": "W-51",
+    "nama_wilayah": "Pademangan Barat",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 101.1,
+    "avg_pm10_lstm": 95.6,
+    "avg_pm10_xgboost": 97.1,
+    "avg_pm10_ensemble": 98.2
+  },
+  {
+    "id_wilayah": "W-52",
+    "nama_wilayah": "Pejagalan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 101.1,
+    "avg_pm10_lstm": 101.9,
+    "avg_pm10_xgboost": 100.1,
+    "avg_pm10_ensemble": 102.7
+  },
+  {
+    "id_wilayah": "W-53",
+    "nama_wilayah": "Papanggo",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 106.9,
+    "avg_pm10_lstm": 103.9,
+    "avg_pm10_xgboost": 108.2,
+    "avg_pm10_ensemble": 102.6
+  },
+  {
+    "id_wilayah": "W-54",
+    "nama_wilayah": "Kamalmuara",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 94.5,
+    "avg_pm10_lstm": 94.6,
+    "avg_pm10_xgboost": 93.7,
+    "avg_pm10_ensemble": 97.4
+  },
+  {
+    "id_wilayah": "W-55",
+    "nama_wilayah": "Rawabadak Utara",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 95.2,
+    "avg_pm10_lstm": 94.2,
+    "avg_pm10_xgboost": 100.2,
+    "avg_pm10_ensemble": 95.3
+  },
+  {
+    "id_wilayah": "W-56",
+    "nama_wilayah": "Kebonbawang",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 91.5,
+    "avg_pm10_lstm": 92.7,
+    "avg_pm10_xgboost": 93.2,
+    "avg_pm10_ensemble": 93.8
+  },
+  {
+    "id_wilayah": "W-57",
+    "nama_wilayah": "Koja",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 103.1,
+    "avg_pm10_lstm": 99.1,
+    "avg_pm10_xgboost": 96.8,
+    "avg_pm10_ensemble": 100.4
+  },
+  {
+    "id_wilayah": "W-58",
+    "nama_wilayah": "Tanjung Priok",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 91.6,
+    "avg_pm10_lstm": 89.2,
+    "avg_pm10_xgboost": 92,
+    "avg_pm10_ensemble": 91.8
+  },
+  {
+    "id_wilayah": "W-59",
+    "nama_wilayah": "Pluit",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 101.7,
+    "avg_pm10_lstm": 97.5,
+    "avg_pm10_xgboost": 94.5,
+    "avg_pm10_ensemble": 97.3
+  },
+  {
+    "id_wilayah": "W-60",
+    "nama_wilayah": "Kalibaru",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 104.8,
+    "avg_pm10_lstm": 98.4,
+    "avg_pm10_xgboost": 101.5,
+    "avg_pm10_ensemble": 101.9
+  },
+  {
+    "id_wilayah": "W-61",
+    "nama_wilayah": "Marunda",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 94.1,
+    "avg_pm10_lstm": 93.4,
+    "avg_pm10_xgboost": 94,
+    "avg_pm10_ensemble": 92.3
+  },
+  {
+    "id_wilayah": "W-62",
+    "nama_wilayah": "Semper Timur",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 94.8,
+    "avg_pm10_lstm": 91.6,
+    "avg_pm10_xgboost": 94.3,
+    "avg_pm10_ensemble": 91.5
+  },
+  {
+    "id_wilayah": "W-63",
+    "nama_wilayah": "Rorotan",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 92.5,
+    "avg_pm10_lstm": 92.4,
+    "avg_pm10_xgboost": 98,
+    "avg_pm10_ensemble": 92.3
+  },
+  {
+    "id_wilayah": "W-64",
+    "nama_wilayah": "Semper Barat",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 106.9,
+    "avg_pm10_lstm": 103.9,
+    "avg_pm10_xgboost": 100,
+    "avg_pm10_ensemble": 102.9
+  },
+  {
+    "id_wilayah": "W-65",
+    "nama_wilayah": "Cilincing",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 92.8,
+    "avg_pm10_lstm": 93.5,
+    "avg_pm10_xgboost": 93.8,
+    "avg_pm10_ensemble": 95.4
+  },
+  {
+    "id_wilayah": "W-66",
+    "nama_wilayah": "Sukapura",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 105.4,
+    "avg_pm10_lstm": 102.5,
+    "avg_pm10_xgboost": 99,
+    "avg_pm10_ensemble": 103.2
+  },
+  {
+    "id_wilayah": "W-67",
+    "nama_wilayah": "Kepulauan Seribu",
+    "tahun": 2023,
+    "avg_pm10_hbstm": 24.2,
+    "avg_pm10_lstm": 25.2,
+    "avg_pm10_xgboost": 28,
+    "avg_pm10_ensemble": 26.7
+  },
+  {
+    "id_wilayah": "W-01",
+    "nama_wilayah": "Cengkareng",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.5,
+    "avg_pm10_lstm": 77.7,
+    "avg_pm10_xgboost": 71.9,
+    "avg_pm10_ensemble": 77.9
+  },
+  {
+    "id_wilayah": "W-02",
+    "nama_wilayah": "Grogol Petamburan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 65,
+    "avg_pm10_lstm": 66,
+    "avg_pm10_xgboost": 70.2,
+    "avg_pm10_ensemble": 65.4
+  },
+  {
+    "id_wilayah": "W-03",
+    "nama_wilayah": "Kalideres",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.9,
+    "avg_pm10_lstm": 75.1,
+    "avg_pm10_xgboost": 73.1,
+    "avg_pm10_ensemble": 77.9
+  },
+  {
+    "id_wilayah": "W-04",
+    "nama_wilayah": "Kebon Jeruk",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 70.7,
+    "avg_pm10_lstm": 66.6,
+    "avg_pm10_xgboost": 66.4,
+    "avg_pm10_ensemble": 67.7
+  },
+  {
+    "id_wilayah": "W-05",
+    "nama_wilayah": "Kembangan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 72.6,
+    "avg_pm10_lstm": 73.2,
+    "avg_pm10_xgboost": 75.7,
+    "avg_pm10_ensemble": 71.1
+  },
+  {
+    "id_wilayah": "W-06",
+    "nama_wilayah": "Palmerah",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 70.2,
+    "avg_pm10_lstm": 69,
+    "avg_pm10_xgboost": 73.7,
+    "avg_pm10_ensemble": 68.2
+  },
+  {
+    "id_wilayah": "W-07",
+    "nama_wilayah": "Taman Sari",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 66.8,
+    "avg_pm10_lstm": 66.8,
+    "avg_pm10_xgboost": 65.6,
+    "avg_pm10_ensemble": 65.5
+  },
+  {
+    "id_wilayah": "W-08",
+    "nama_wilayah": "Tambora",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 76.9,
+    "avg_pm10_lstm": 71.4,
+    "avg_pm10_xgboost": 75.3,
+    "avg_pm10_ensemble": 73.9
+  },
+  {
+    "id_wilayah": "W-09",
+    "nama_wilayah": "Cempaka Putih",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 83.6,
+    "avg_pm10_lstm": 81,
+    "avg_pm10_xgboost": 78.1,
+    "avg_pm10_ensemble": 78.8
+  },
+  {
+    "id_wilayah": "W-10",
+    "nama_wilayah": "Gambir",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 82.9,
+    "avg_pm10_lstm": 82.5,
+    "avg_pm10_xgboost": 84.6,
+    "avg_pm10_ensemble": 83.3
+  },
+  {
+    "id_wilayah": "W-11",
+    "nama_wilayah": "Johar Baru",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 74.7,
+    "avg_pm10_lstm": 73.2,
+    "avg_pm10_xgboost": 68.9,
+    "avg_pm10_ensemble": 71.3
+  },
+  {
+    "id_wilayah": "W-12",
+    "nama_wilayah": "Kemayoran",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.1,
+    "avg_pm10_lstm": 76.4,
+    "avg_pm10_xgboost": 72.5,
+    "avg_pm10_ensemble": 78.3
+  },
+  {
+    "id_wilayah": "W-13",
+    "nama_wilayah": "Menteng",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 85.5,
+    "avg_pm10_lstm": 78.4,
+    "avg_pm10_xgboost": 87.7,
+    "avg_pm10_ensemble": 82
+  },
+  {
+    "id_wilayah": "W-14",
+    "nama_wilayah": "Sawah Besar",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 71,
+    "avg_pm10_lstm": 74.3,
+    "avg_pm10_xgboost": 73.6,
+    "avg_pm10_ensemble": 74.2
+  },
+  {
+    "id_wilayah": "W-15",
+    "nama_wilayah": "Senen",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 73.5,
+    "avg_pm10_lstm": 67.8,
+    "avg_pm10_xgboost": 74.2,
+    "avg_pm10_ensemble": 68.9
+  },
+  {
+    "id_wilayah": "W-16",
+    "nama_wilayah": "Tanah Abang",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 75.3,
+    "avg_pm10_lstm": 70.4,
+    "avg_pm10_xgboost": 67.5,
+    "avg_pm10_ensemble": 72.3
+  },
+  {
+    "id_wilayah": "W-17",
+    "nama_wilayah": "Cilandak",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 51.7,
+    "avg_pm10_lstm": 49.4,
+    "avg_pm10_xgboost": 57.8,
+    "avg_pm10_ensemble": 52.1
+  },
+  {
+    "id_wilayah": "W-18",
+    "nama_wilayah": "Jagakarsa",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 68.6,
+    "avg_pm10_lstm": 62.8,
+    "avg_pm10_xgboost": 65.4,
+    "avg_pm10_ensemble": 63.9
+  },
+  {
+    "id_wilayah": "W-19",
+    "nama_wilayah": "Kebayoran Baru",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 68,
+    "avg_pm10_lstm": 63.8,
+    "avg_pm10_xgboost": 68.1,
+    "avg_pm10_ensemble": 64.7
+  },
+  {
+    "id_wilayah": "W-20",
+    "nama_wilayah": "Kebayoran Lama",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 63.5,
+    "avg_pm10_lstm": 60.3,
+    "avg_pm10_xgboost": 64.1,
+    "avg_pm10_ensemble": 63.6
+  },
+  {
+    "id_wilayah": "W-21",
+    "nama_wilayah": "Mampang Prapatan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 69.6,
+    "avg_pm10_lstm": 64.5,
+    "avg_pm10_xgboost": 61.2,
+    "avg_pm10_ensemble": 65.9
+  },
+  {
+    "id_wilayah": "W-22",
+    "nama_wilayah": "Pancoran",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 63.7,
+    "avg_pm10_lstm": 57.3,
+    "avg_pm10_xgboost": 61.6,
+    "avg_pm10_ensemble": 59.4
+  },
+  {
+    "id_wilayah": "W-23",
+    "nama_wilayah": "Pasar Minggu",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 67.7,
+    "avg_pm10_lstm": 65.9,
+    "avg_pm10_xgboost": 59,
+    "avg_pm10_ensemble": 64.5
+  },
+  {
+    "id_wilayah": "W-24",
+    "nama_wilayah": "Pesanggrahan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 68.5,
+    "avg_pm10_lstm": 61.2,
+    "avg_pm10_xgboost": 63.5,
+    "avg_pm10_ensemble": 64.1
+  },
+  {
+    "id_wilayah": "W-25",
+    "nama_wilayah": "Setia Budi",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 53.7,
+    "avg_pm10_lstm": 56.2,
+    "avg_pm10_xgboost": 53.2,
+    "avg_pm10_ensemble": 55.5
+  },
+  {
+    "id_wilayah": "W-26",
+    "nama_wilayah": "Tebet",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 60.1,
+    "avg_pm10_lstm": 59.2,
+    "avg_pm10_xgboost": 64.6,
+    "avg_pm10_ensemble": 62
+  },
+  {
+    "id_wilayah": "W-27",
+    "nama_wilayah": "Cakung",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 90.6,
+    "avg_pm10_lstm": 85.6,
+    "avg_pm10_xgboost": 84.2,
+    "avg_pm10_ensemble": 88.4
+  },
+  {
+    "id_wilayah": "W-28",
+    "nama_wilayah": "Cipayung",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 84,
+    "avg_pm10_lstm": 82,
+    "avg_pm10_xgboost": 83.8,
+    "avg_pm10_ensemble": 81.1
+  },
+  {
+    "id_wilayah": "W-29",
+    "nama_wilayah": "Ciracas",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 84.2,
+    "avg_pm10_lstm": 87.7,
+    "avg_pm10_xgboost": 82.9,
+    "avg_pm10_ensemble": 86.4
+  },
+  {
+    "id_wilayah": "W-30",
+    "nama_wilayah": "Duren Sawit",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 74.2,
+    "avg_pm10_lstm": 74.7,
+    "avg_pm10_xgboost": 76,
+    "avg_pm10_ensemble": 76.8
+  },
+  {
+    "id_wilayah": "W-31",
+    "nama_wilayah": "Jatinegara",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.7,
+    "avg_pm10_lstm": 85.2,
+    "avg_pm10_xgboost": 87.4,
+    "avg_pm10_ensemble": 83.2
+  },
+  {
+    "id_wilayah": "W-32",
+    "nama_wilayah": "Kramatjati",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.2,
+    "avg_pm10_lstm": 75.8,
+    "avg_pm10_xgboost": 73.7,
+    "avg_pm10_ensemble": 77.2
+  },
+  {
+    "id_wilayah": "W-33",
+    "nama_wilayah": "Makasar",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 81.8,
+    "avg_pm10_lstm": 83.1,
+    "avg_pm10_xgboost": 84.4,
+    "avg_pm10_ensemble": 81.4
+  },
+  {
+    "id_wilayah": "W-34",
+    "nama_wilayah": "Matraman",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 78.8,
+    "avg_pm10_lstm": 78.6,
+    "avg_pm10_xgboost": 72.8,
+    "avg_pm10_ensemble": 76.7
+  },
+  {
+    "id_wilayah": "W-35",
+    "nama_wilayah": "Pasar Rebo",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 77.3,
+    "avg_pm10_lstm": 72.5,
+    "avg_pm10_xgboost": 68.3,
+    "avg_pm10_ensemble": 74.2
+  },
+  {
+    "id_wilayah": "W-36",
+    "nama_wilayah": "Pulo Gadung",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 88.4,
+    "avg_pm10_lstm": 82,
+    "avg_pm10_xgboost": 80.4,
+    "avg_pm10_ensemble": 84.1
+  },
+  {
+    "id_wilayah": "W-37",
+    "nama_wilayah": "Kapukmuara",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.7,
+    "avg_pm10_lstm": 81.8,
+    "avg_pm10_xgboost": 83.2,
+    "avg_pm10_ensemble": 83.4
+  },
+  {
+    "id_wilayah": "W-38",
+    "nama_wilayah": "Warakas",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 83.8,
+    "avg_pm10_lstm": 77.9,
+    "avg_pm10_xgboost": 84.2,
+    "avg_pm10_ensemble": 79.2
+  },
+  {
+    "id_wilayah": "W-39",
+    "nama_wilayah": "Pegangsaandua",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 87.4,
+    "avg_pm10_lstm": 80.4,
+    "avg_pm10_xgboost": 82,
+    "avg_pm10_ensemble": 83.2
+  },
+  {
+    "id_wilayah": "W-40",
+    "nama_wilayah": "Ancol",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 84,
+    "avg_pm10_lstm": 84.6,
+    "avg_pm10_xgboost": 79.3,
+    "avg_pm10_ensemble": 83.4
+  },
+  {
+    "id_wilayah": "W-41",
+    "nama_wilayah": "Sunteragung",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 81.5,
+    "avg_pm10_lstm": 77.9,
+    "avg_pm10_xgboost": 84.8,
+    "avg_pm10_ensemble": 81.4
+  },
+  {
+    "id_wilayah": "W-42",
+    "nama_wilayah": "Pademangan Timur",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 78.8,
+    "avg_pm10_lstm": 82.1,
+    "avg_pm10_xgboost": 84.4,
+    "avg_pm10_ensemble": 79.8
+  },
+  {
+    "id_wilayah": "W-43",
+    "nama_wilayah": "Kelapagading Barat",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 84.1,
+    "avg_pm10_lstm": 84.8,
+    "avg_pm10_xgboost": 87.5,
+    "avg_pm10_ensemble": 83.9
+  },
+  {
+    "id_wilayah": "W-44",
+    "nama_wilayah": "Sungaibambu",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 94.3,
+    "avg_pm10_lstm": 90.3,
+    "avg_pm10_xgboost": 88.4,
+    "avg_pm10_ensemble": 92.6
+  },
+  {
+    "id_wilayah": "W-45",
+    "nama_wilayah": "Rawabadak Selatan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 90,
+    "avg_pm10_lstm": 92.3,
+    "avg_pm10_xgboost": 88,
+    "avg_pm10_ensemble": 93.2
+  },
+  {
+    "id_wilayah": "W-46",
+    "nama_wilayah": "Sunterjaya",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 85,
+    "avg_pm10_lstm": 86.4,
+    "avg_pm10_xgboost": 86.7,
+    "avg_pm10_ensemble": 87.2
+  },
+  {
+    "id_wilayah": "W-47",
+    "nama_wilayah": "Tugu Selatan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 81.5,
+    "avg_pm10_lstm": 82.5,
+    "avg_pm10_xgboost": 79.8,
+    "avg_pm10_ensemble": 81.3
+  },
+  {
+    "id_wilayah": "W-48",
+    "nama_wilayah": "Lagoa",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 88.3,
+    "avg_pm10_lstm": 89.2,
+    "avg_pm10_xgboost": 88.5,
+    "avg_pm10_ensemble": 88.4
+  },
+  {
+    "id_wilayah": "W-49",
+    "nama_wilayah": "Kelapagading Timur",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 90.6,
+    "avg_pm10_lstm": 88.2,
+    "avg_pm10_xgboost": 88.7,
+    "avg_pm10_ensemble": 86
+  },
+  {
+    "id_wilayah": "W-50",
+    "nama_wilayah": "Tugu Utara",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.4,
+    "avg_pm10_lstm": 78.4,
+    "avg_pm10_xgboost": 83.5,
+    "avg_pm10_ensemble": 81.3
+  },
+  {
+    "id_wilayah": "W-51",
+    "nama_wilayah": "Pademangan Barat",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 88.3,
+    "avg_pm10_lstm": 89,
+    "avg_pm10_xgboost": 90,
+    "avg_pm10_ensemble": 90.2
+  },
+  {
+    "id_wilayah": "W-52",
+    "nama_wilayah": "Pejagalan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 82.2,
+    "avg_pm10_lstm": 79.8,
+    "avg_pm10_xgboost": 76.2,
+    "avg_pm10_ensemble": 81.7
+  },
+  {
+    "id_wilayah": "W-53",
+    "nama_wilayah": "Papanggo",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 96.1,
+    "avg_pm10_lstm": 95,
+    "avg_pm10_xgboost": 88.9,
+    "avg_pm10_ensemble": 92.8
+  },
+  {
+    "id_wilayah": "W-54",
+    "nama_wilayah": "Kamalmuara",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 77.2,
+    "avg_pm10_lstm": 76.8,
+    "avg_pm10_xgboost": 77,
+    "avg_pm10_ensemble": 79.3
+  },
+  {
+    "id_wilayah": "W-55",
+    "nama_wilayah": "Rawabadak Utara",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 84.7,
+    "avg_pm10_lstm": 86.5,
+    "avg_pm10_xgboost": 84.5,
+    "avg_pm10_ensemble": 84.6
+  },
+  {
+    "id_wilayah": "W-56",
+    "nama_wilayah": "Kebonbawang",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 80.6,
+    "avg_pm10_lstm": 79.5,
+    "avg_pm10_xgboost": 78,
+    "avg_pm10_ensemble": 80.4
+  },
+  {
+    "id_wilayah": "W-57",
+    "nama_wilayah": "Koja",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 89.6,
+    "avg_pm10_lstm": 87.3,
+    "avg_pm10_xgboost": 83.9,
+    "avg_pm10_ensemble": 89.7
+  },
+  {
+    "id_wilayah": "W-58",
+    "nama_wilayah": "Tanjung Priok",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 82.5,
+    "avg_pm10_lstm": 83.9,
+    "avg_pm10_xgboost": 85.8,
+    "avg_pm10_ensemble": 84.4
+  },
+  {
+    "id_wilayah": "W-59",
+    "nama_wilayah": "Pluit",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 94.7,
+    "avg_pm10_lstm": 90.9,
+    "avg_pm10_xgboost": 89.7,
+    "avg_pm10_ensemble": 92.9
+  },
+  {
+    "id_wilayah": "W-60",
+    "nama_wilayah": "Kalibaru",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 87.1,
+    "avg_pm10_lstm": 89.4,
+    "avg_pm10_xgboost": 94.6,
+    "avg_pm10_ensemble": 90.2
+  },
+  {
+    "id_wilayah": "W-61",
+    "nama_wilayah": "Marunda",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 91.3,
+    "avg_pm10_lstm": 88.4,
+    "avg_pm10_xgboost": 91.3,
+    "avg_pm10_ensemble": 88.2
+  },
+  {
+    "id_wilayah": "W-62",
+    "nama_wilayah": "Semper Timur",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 92.7,
+    "avg_pm10_lstm": 91.8,
+    "avg_pm10_xgboost": 95.5,
+    "avg_pm10_ensemble": 91
+  },
+  {
+    "id_wilayah": "W-63",
+    "nama_wilayah": "Rorotan",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 86.9,
+    "avg_pm10_lstm": 87.5,
+    "avg_pm10_xgboost": 84.6,
+    "avg_pm10_ensemble": 85.2
+  },
+  {
+    "id_wilayah": "W-64",
+    "nama_wilayah": "Semper Barat",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 95.2,
+    "avg_pm10_lstm": 90.1,
+    "avg_pm10_xgboost": 94.3,
+    "avg_pm10_ensemble": 92.2
+  },
+  {
+    "id_wilayah": "W-65",
+    "nama_wilayah": "Cilincing",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 79,
+    "avg_pm10_lstm": 78.5,
+    "avg_pm10_xgboost": 79.9,
+    "avg_pm10_ensemble": 79.9
+  },
+  {
+    "id_wilayah": "W-66",
+    "nama_wilayah": "Sukapura",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 89.6,
+    "avg_pm10_lstm": 86.2,
+    "avg_pm10_xgboost": 88.9,
+    "avg_pm10_ensemble": 88.9
+  },
+  {
+    "id_wilayah": "W-67",
+    "nama_wilayah": "Kepulauan Seribu",
+    "tahun": 2024,
+    "avg_pm10_hbstm": 21,
+    "avg_pm10_lstm": 21.4,
+    "avg_pm10_xgboost": 20.2,
+    "avg_pm10_ensemble": 21.4
+  },
+  {
+    "id_wilayah": "W-01",
+    "nama_wilayah": "Cengkareng",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 69.8,
+    "avg_pm10_lstm": 64.9,
+    "avg_pm10_xgboost": 68.7,
+    "avg_pm10_ensemble": 68.5
+  },
+  {
+    "id_wilayah": "W-02",
+    "nama_wilayah": "Grogol Petamburan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 65.2,
+    "avg_pm10_lstm": 64.6,
+    "avg_pm10_xgboost": 62.6,
+    "avg_pm10_ensemble": 62.8
+  },
+  {
+    "id_wilayah": "W-03",
+    "nama_wilayah": "Kalideres",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 66.9,
+    "avg_pm10_lstm": 66.1,
+    "avg_pm10_xgboost": 67.9,
+    "avg_pm10_ensemble": 69.1
+  },
+  {
+    "id_wilayah": "W-04",
+    "nama_wilayah": "Kebon Jeruk",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 69.3,
+    "avg_pm10_lstm": 67.8,
+    "avg_pm10_xgboost": 69,
+    "avg_pm10_ensemble": 69.1
+  },
+  {
+    "id_wilayah": "W-05",
+    "nama_wilayah": "Kembangan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 70.9,
+    "avg_pm10_lstm": 68.2,
+    "avg_pm10_xgboost": 66.2,
+    "avg_pm10_ensemble": 66.5
+  },
+  {
+    "id_wilayah": "W-06",
+    "nama_wilayah": "Palmerah",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 69.9,
+    "avg_pm10_lstm": 69.5,
+    "avg_pm10_xgboost": 61.9,
+    "avg_pm10_ensemble": 67.3
+  },
+  {
+    "id_wilayah": "W-07",
+    "nama_wilayah": "Taman Sari",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 69.4,
+    "avg_pm10_lstm": 65.5,
+    "avg_pm10_xgboost": 66.5,
+    "avg_pm10_ensemble": 66.1
+  },
+  {
+    "id_wilayah": "W-08",
+    "nama_wilayah": "Tambora",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 67.4,
+    "avg_pm10_lstm": 69.3,
+    "avg_pm10_xgboost": 63.8,
+    "avg_pm10_ensemble": 69.2
+  },
+  {
+    "id_wilayah": "W-09",
+    "nama_wilayah": "Cempaka Putih",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 80.1,
+    "avg_pm10_lstm": 74.7,
+    "avg_pm10_xgboost": 76.6,
+    "avg_pm10_ensemble": 75.6
+  },
+  {
+    "id_wilayah": "W-10",
+    "nama_wilayah": "Gambir",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 66.5,
+    "avg_pm10_lstm": 66.1,
+    "avg_pm10_xgboost": 61.9,
+    "avg_pm10_ensemble": 66
+  },
+  {
+    "id_wilayah": "W-11",
+    "nama_wilayah": "Johar Baru",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 77.2,
+    "avg_pm10_lstm": 71.3,
+    "avg_pm10_xgboost": 77.9,
+    "avg_pm10_ensemble": 73.1
+  },
+  {
+    "id_wilayah": "W-12",
+    "nama_wilayah": "Kemayoran",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 69.1,
+    "avg_pm10_lstm": 66.6,
+    "avg_pm10_xgboost": 71.6,
+    "avg_pm10_ensemble": 70.1
+  },
+  {
+    "id_wilayah": "W-13",
+    "nama_wilayah": "Menteng",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 70,
+    "avg_pm10_lstm": 75.4,
+    "avg_pm10_xgboost": 68.4,
+    "avg_pm10_ensemble": 73.2
+  },
+  {
+    "id_wilayah": "W-14",
+    "nama_wilayah": "Sawah Besar",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 62.5,
+    "avg_pm10_lstm": 59.8,
+    "avg_pm10_xgboost": 63,
+    "avg_pm10_ensemble": 60.7
+  },
+  {
+    "id_wilayah": "W-15",
+    "nama_wilayah": "Senen",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 75.4,
+    "avg_pm10_lstm": 77.2,
+    "avg_pm10_xgboost": 77.8,
+    "avg_pm10_ensemble": 75.2
+  },
+  {
+    "id_wilayah": "W-16",
+    "nama_wilayah": "Tanah Abang",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 71.2,
+    "avg_pm10_lstm": 69.2,
+    "avg_pm10_xgboost": 72.8,
+    "avg_pm10_ensemble": 72.2
+  },
+  {
+    "id_wilayah": "W-17",
+    "nama_wilayah": "Cilandak",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 48.4,
+    "avg_pm10_lstm": 52.6,
+    "avg_pm10_xgboost": 52.4,
+    "avg_pm10_ensemble": 50.4
+  },
+  {
+    "id_wilayah": "W-18",
+    "nama_wilayah": "Jagakarsa",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 60.2,
+    "avg_pm10_lstm": 60.2,
+    "avg_pm10_xgboost": 55.9,
+    "avg_pm10_ensemble": 60
+  },
+  {
+    "id_wilayah": "W-19",
+    "nama_wilayah": "Kebayoran Baru",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 57.9,
+    "avg_pm10_lstm": 58.5,
+    "avg_pm10_xgboost": 63.1,
+    "avg_pm10_ensemble": 57.4
+  },
+  {
+    "id_wilayah": "W-20",
+    "nama_wilayah": "Kebayoran Lama",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 48.3,
+    "avg_pm10_lstm": 50.7,
+    "avg_pm10_xgboost": 47.4,
+    "avg_pm10_ensemble": 51.1
+  },
+  {
+    "id_wilayah": "W-21",
+    "nama_wilayah": "Mampang Prapatan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 57.9,
+    "avg_pm10_lstm": 55.3,
+    "avg_pm10_xgboost": 62.7,
+    "avg_pm10_ensemble": 58.2
+  },
+  {
+    "id_wilayah": "W-22",
+    "nama_wilayah": "Pancoran",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 58,
+    "avg_pm10_lstm": 59.7,
+    "avg_pm10_xgboost": 60.7,
+    "avg_pm10_ensemble": 59.2
+  },
+  {
+    "id_wilayah": "W-23",
+    "nama_wilayah": "Pasar Minggu",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 60.7,
+    "avg_pm10_lstm": 53.8,
+    "avg_pm10_xgboost": 60.7,
+    "avg_pm10_ensemble": 57.2
+  },
+  {
+    "id_wilayah": "W-24",
+    "nama_wilayah": "Pesanggrahan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 57.2,
+    "avg_pm10_lstm": 58.5,
+    "avg_pm10_xgboost": 61.2,
+    "avg_pm10_ensemble": 59.4
+  },
+  {
+    "id_wilayah": "W-25",
+    "nama_wilayah": "Setia Budi",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 50.4,
+    "avg_pm10_lstm": 46.1,
+    "avg_pm10_xgboost": 53.4,
+    "avg_pm10_ensemble": 47.8
+  },
+  {
+    "id_wilayah": "W-26",
+    "nama_wilayah": "Tebet",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 45.4,
+    "avg_pm10_lstm": 48.3,
+    "avg_pm10_xgboost": 46.5,
+    "avg_pm10_ensemble": 47.6
+  },
+  {
+    "id_wilayah": "W-27",
+    "nama_wilayah": "Cakung",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 73.7,
+    "avg_pm10_lstm": 73.2,
+    "avg_pm10_xgboost": 80.3,
+    "avg_pm10_ensemble": 75.9
+  },
+  {
+    "id_wilayah": "W-28",
+    "nama_wilayah": "Cipayung",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 80,
+    "avg_pm10_lstm": 78,
+    "avg_pm10_xgboost": 73.1,
+    "avg_pm10_ensemble": 77.2
+  },
+  {
+    "id_wilayah": "W-29",
+    "nama_wilayah": "Ciracas",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 70.9,
+    "avg_pm10_lstm": 65.2,
+    "avg_pm10_xgboost": 61.8,
+    "avg_pm10_ensemble": 67.6
+  },
+  {
+    "id_wilayah": "W-30",
+    "nama_wilayah": "Duren Sawit",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 65.7,
+    "avg_pm10_lstm": 65.8,
+    "avg_pm10_xgboost": 64.2,
+    "avg_pm10_ensemble": 66.8
+  },
+  {
+    "id_wilayah": "W-31",
+    "nama_wilayah": "Jatinegara",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 71.2,
+    "avg_pm10_lstm": 68.4,
+    "avg_pm10_xgboost": 71.6,
+    "avg_pm10_ensemble": 66.9
+  },
+  {
+    "id_wilayah": "W-32",
+    "nama_wilayah": "Kramatjati",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 76.9,
+    "avg_pm10_lstm": 74.8,
+    "avg_pm10_xgboost": 71.2,
+    "avg_pm10_ensemble": 77.2
+  },
+  {
+    "id_wilayah": "W-33",
+    "nama_wilayah": "Makasar",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 76.2,
+    "avg_pm10_lstm": 73.3,
+    "avg_pm10_xgboost": 70.6,
+    "avg_pm10_ensemble": 72.4
+  },
+  {
+    "id_wilayah": "W-34",
+    "nama_wilayah": "Matraman",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 79.8,
+    "avg_pm10_lstm": 73,
+    "avg_pm10_xgboost": 71.5,
+    "avg_pm10_ensemble": 75.6
+  },
+  {
+    "id_wilayah": "W-35",
+    "nama_wilayah": "Pasar Rebo",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 76.9,
+    "avg_pm10_lstm": 73.9,
+    "avg_pm10_xgboost": 82.3,
+    "avg_pm10_ensemble": 77.5
+  },
+  {
+    "id_wilayah": "W-36",
+    "nama_wilayah": "Pulo Gadung",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 78.5,
+    "avg_pm10_lstm": 77.3,
+    "avg_pm10_xgboost": 77.3,
+    "avg_pm10_ensemble": 79.7
+  },
+  {
+    "id_wilayah": "W-37",
+    "nama_wilayah": "Kapukmuara",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 70.5,
+    "avg_pm10_lstm": 70.3,
+    "avg_pm10_xgboost": 66.9,
+    "avg_pm10_ensemble": 71
+  },
+  {
+    "id_wilayah": "W-38",
+    "nama_wilayah": "Warakas",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 84.4,
+    "avg_pm10_lstm": 86.5,
+    "avg_pm10_xgboost": 89.3,
+    "avg_pm10_ensemble": 84.6
+  },
+  {
+    "id_wilayah": "W-39",
+    "nama_wilayah": "Pegangsaandua",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 81.8,
+    "avg_pm10_lstm": 82.8,
+    "avg_pm10_xgboost": 80.8,
+    "avg_pm10_ensemble": 84
+  },
+  {
+    "id_wilayah": "W-40",
+    "nama_wilayah": "Ancol",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 80.3,
+    "avg_pm10_lstm": 74.5,
+    "avg_pm10_xgboost": 71.4,
+    "avg_pm10_ensemble": 77.2
+  },
+  {
+    "id_wilayah": "W-41",
+    "nama_wilayah": "Sunteragung",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 73.2,
+    "avg_pm10_lstm": 77.3,
+    "avg_pm10_xgboost": 80.1,
+    "avg_pm10_ensemble": 76.2
+  },
+  {
+    "id_wilayah": "W-42",
+    "nama_wilayah": "Pademangan Timur",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 78.8,
+    "avg_pm10_lstm": 75.9,
+    "avg_pm10_xgboost": 70.4,
+    "avg_pm10_ensemble": 74.2
+  },
+  {
+    "id_wilayah": "W-43",
+    "nama_wilayah": "Kelapagading Barat",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 79.1,
+    "avg_pm10_lstm": 77.5,
+    "avg_pm10_xgboost": 75,
+    "avg_pm10_ensemble": 76.3
+  },
+  {
+    "id_wilayah": "W-44",
+    "nama_wilayah": "Sungaibambu",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 77.9,
+    "avg_pm10_lstm": 76.6,
+    "avg_pm10_xgboost": 84.2,
+    "avg_pm10_ensemble": 79.3
+  },
+  {
+    "id_wilayah": "W-45",
+    "nama_wilayah": "Rawabadak Selatan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 70.4,
+    "avg_pm10_lstm": 66.8,
+    "avg_pm10_xgboost": 69.7,
+    "avg_pm10_ensemble": 70
+  },
+  {
+    "id_wilayah": "W-46",
+    "nama_wilayah": "Sunterjaya",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 72.4,
+    "avg_pm10_lstm": 71,
+    "avg_pm10_xgboost": 69,
+    "avg_pm10_ensemble": 71.8
+  },
+  {
+    "id_wilayah": "W-47",
+    "nama_wilayah": "Tugu Selatan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 79.5,
+    "avg_pm10_lstm": 75,
+    "avg_pm10_xgboost": 77.7,
+    "avg_pm10_ensemble": 76.3
+  },
+  {
+    "id_wilayah": "W-48",
+    "nama_wilayah": "Lagoa",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 78.4,
+    "avg_pm10_lstm": 75.1,
+    "avg_pm10_xgboost": 81.6,
+    "avg_pm10_ensemble": 75.7
+  },
+  {
+    "id_wilayah": "W-49",
+    "nama_wilayah": "Kelapagading Timur",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 89.2,
+    "avg_pm10_lstm": 85.5,
+    "avg_pm10_xgboost": 90.6,
+    "avg_pm10_ensemble": 84.7
+  },
+  {
+    "id_wilayah": "W-50",
+    "nama_wilayah": "Tugu Utara",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 72.1,
+    "avg_pm10_lstm": 74.8,
+    "avg_pm10_xgboost": 68.6,
+    "avg_pm10_ensemble": 74.3
+  },
+  {
+    "id_wilayah": "W-51",
+    "nama_wilayah": "Pademangan Barat",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 72.6,
+    "avg_pm10_lstm": 71.8,
+    "avg_pm10_xgboost": 66.8,
+    "avg_pm10_ensemble": 72.5
+  },
+  {
+    "id_wilayah": "W-52",
+    "nama_wilayah": "Pejagalan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 76,
+    "avg_pm10_lstm": 73.6,
+    "avg_pm10_xgboost": 71,
+    "avg_pm10_ensemble": 76.9
+  },
+  {
+    "id_wilayah": "W-53",
+    "nama_wilayah": "Papanggo",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 86.7,
+    "avg_pm10_lstm": 79.7,
+    "avg_pm10_xgboost": 82.2,
+    "avg_pm10_ensemble": 82.2
+  },
+  {
+    "id_wilayah": "W-54",
+    "nama_wilayah": "Kamalmuara",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 70.4,
+    "avg_pm10_lstm": 70.3,
+    "avg_pm10_xgboost": 75.2,
+    "avg_pm10_ensemble": 72.1
+  },
+  {
+    "id_wilayah": "W-55",
+    "nama_wilayah": "Rawabadak Utara",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 80.2,
+    "avg_pm10_lstm": 75.5,
+    "avg_pm10_xgboost": 72.5,
+    "avg_pm10_ensemble": 76.1
+  },
+  {
+    "id_wilayah": "W-56",
+    "nama_wilayah": "Kebonbawang",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 76.7,
+    "avg_pm10_lstm": 74.5,
+    "avg_pm10_xgboost": 73,
+    "avg_pm10_ensemble": 76.3
+  },
+  {
+    "id_wilayah": "W-57",
+    "nama_wilayah": "Koja",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 74.2,
+    "avg_pm10_lstm": 72.3,
+    "avg_pm10_xgboost": 79.8,
+    "avg_pm10_ensemble": 75.8
+  },
+  {
+    "id_wilayah": "W-58",
+    "nama_wilayah": "Tanjung Priok",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 73.4,
+    "avg_pm10_lstm": 72.6,
+    "avg_pm10_xgboost": 71.1,
+    "avg_pm10_ensemble": 72.5
+  },
+  {
+    "id_wilayah": "W-59",
+    "nama_wilayah": "Pluit",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 78.4,
+    "avg_pm10_lstm": 77.2,
+    "avg_pm10_xgboost": 81.2,
+    "avg_pm10_ensemble": 79.4
+  },
+  {
+    "id_wilayah": "W-60",
+    "nama_wilayah": "Kalibaru",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 70.7,
+    "avg_pm10_lstm": 71.8,
+    "avg_pm10_xgboost": 67,
+    "avg_pm10_ensemble": 70.2
+  },
+  {
+    "id_wilayah": "W-61",
+    "nama_wilayah": "Marunda",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 83.6,
+    "avg_pm10_lstm": 82.7,
+    "avg_pm10_xgboost": 83.6,
+    "avg_pm10_ensemble": 81.7
+  },
+  {
+    "id_wilayah": "W-62",
+    "nama_wilayah": "Semper Timur",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 82,
+    "avg_pm10_lstm": 80.9,
+    "avg_pm10_xgboost": 82.7,
+    "avg_pm10_ensemble": 79.3
+  },
+  {
+    "id_wilayah": "W-63",
+    "nama_wilayah": "Rorotan",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 83.8,
+    "avg_pm10_lstm": 78.3,
+    "avg_pm10_xgboost": 79.3,
+    "avg_pm10_ensemble": 79.2
+  },
+  {
+    "id_wilayah": "W-64",
+    "nama_wilayah": "Semper Barat",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 80.4,
+    "avg_pm10_lstm": 82,
+    "avg_pm10_xgboost": 75.7,
+    "avg_pm10_ensemble": 81.5
+  },
+  {
+    "id_wilayah": "W-65",
+    "nama_wilayah": "Cilincing",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 74,
+    "avg_pm10_lstm": 73.7,
+    "avg_pm10_xgboost": 75.9,
+    "avg_pm10_ensemble": 74.3
+  },
+  {
+    "id_wilayah": "W-66",
+    "nama_wilayah": "Sukapura",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 75.3,
+    "avg_pm10_lstm": 76.7,
+    "avg_pm10_xgboost": 79.2,
+    "avg_pm10_ensemble": 77.3
+  },
+  {
+    "id_wilayah": "W-67",
+    "nama_wilayah": "Kepulauan Seribu",
+    "tahun": 2025,
+    "avg_pm10_hbstm": 24.3,
+    "avg_pm10_lstm": 21.4,
+    "avg_pm10_xgboost": 20,
+    "avg_pm10_ensemble": 22.6
+  }
+]

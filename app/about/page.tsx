@@ -33,8 +33,7 @@ export default function AboutPage() {
             <div className="space-y-4">
               <div>
                 <h4 className="text-base font-extrabold text-slate-900 leading-snug">
-                  Prediksi dan Observasi Polusi Udara Jakarta (PODAJA):
-                  Estimasi Spasial PM10 Menggunakan Pendekatan HBSTM, LSTM, dan XGBoost
+                  ANALISIS KOMPARATIF MODEL HIERARCHICAL BAYESIAN SPATIO-TEMPORAL, LONG SHORT-TERM MEMORY, DAN EXTREME GRADIENT BOOSTING UNTUK PREDIKSI KUALITAS UDARA DKI JAKARTA BERBASIS WEB
                 </h4>
                 <p className="text-[10px] text-slate-400 font-semibold mt-1">
                   KATEGORI: PRESENTASI TESIS & PERBANDINGAN MODEL
@@ -42,10 +41,8 @@ export default function AboutPage() {
               </div>
 
               <p className="text-xs text-slate-650 leading-relaxed">
-                Tugas akhir ini berfokus pada pemodelan dan estimasi spasial konsentrasi polutan <strong>Particulate Matter 10 (PM10)</strong> di wilayah DKI Jakarta. Keterbatasan jumlah stasiun pemantau kualitas udara fisik (sensor DLH) menyebabkan tidak meratanya data spasial kualitas udara di tingkat kecamatan. 
-              </p>
-              <p className="text-xs text-slate-650 leading-relaxed">
-                Untuk mengatasi tantangan ini, penelitian ini menerapkan tiga model komputasi terdepan: <strong>Hierarchical Bayesian Spatio-Temporal Model (HBSTM)</strong> untuk pemodelan statistik formal berbasis ketidakpastian, <strong>Long Short-Term Memory (LSTM)</strong> neural network untuk ekstraksi dependensi temporal mendalam, dan <strong>XGBoost</strong> untuk regresi spasial berbasis ensemble tree yang efisien. Dashboard ini menyajikan perbandingan performa, visualisasi estimasi spasial, serta analisis ketidakpastian spasial secara interaktif.
+                Keterbatasan stasiun pemantau fisik kualitas udara (sensor DLH) di DKI Jakarta menyebabkan tidak meratanya ketersediaan data spasial polusi atau blank spots. Penelitian ini bertujuan untuk melakukan evaluasi komparatif antara model <strong>Hierarchical Bayesian Spatio-Temporal (HBSTM)</strong>, <strong>Long Short-Term Memory (LSTM)</strong>, dan <strong>Extreme Gradient Boosting (XGBoost)</strong> guna memprediksi konsentrasi Particulate Matter 10 (PM10) di lokasi tanpa sensor.
+                Evaluasi dilakukan menggunakan teknik <strong>Leave-One-Location-Out (LOLO) Cross-Validation</strong> untuk menguji kemampuan interpolasi spasial. Hasil pengujian membuktikan bahwa algoritma XGBoost merupakan model terbaik dengan tingkat akurasi tertinggi, mencatatkan rata-rata RMSE global minimum sebesar 13.206 µg/m3 dan MAPE terkecil sebesar 20,79%. LSTM menempati peringkat kedua, sementara HBSTM memiliki performa terendah akibat adanya spatial smoothing bias pada wilayah dengan anomali ekstrem. Algoritma XGBoost kemudian diimplementasikan sebagai mesin inferensi utama (core inference engine) pada dashboard PODAJA untuk menyajikan pemetaan polusi secara real-time dan responsif.
               </p>
             </div>
           </div>
@@ -61,16 +58,13 @@ export default function AboutPage() {
 
             <ul className="list-disc pl-4 space-y-2 text-xs text-slate-600 leading-relaxed">
               <li>
-                <strong>Estimasi Spasial Resolusi Tinggi:</strong> Mengestimasi konsentrasi PM10 pada tingkat kecamatan di DKI Jakarta guna mengisi kekosongan pemantauan kualitas udara di area tanpa stasiun sensor fisik.
+                <strong>Pembangunan Model Spasial-Temporal:</strong> Membangun arsitektur model HBSTM, LSTM, dan XGBoost yang disesuaikan untuk karakteristik data spasial-temporal kualitas udara di Jakarta
               </li>
               <li>
-                <strong>Evaluasi Perbandingan Model:</strong> Membandingkan performa model statistik statistik-spasial (HBSTM) dengan model Deep Learning temporal (LSTM) dan Machine Learning tabular (XGBoost) berbasis metrik RMSE dan MAPE.
+                <strong>Evaluasi Akurasi Prediksi:</strong> Mengevaluasi akurasi ketiga model komputasi tersebut dalam memprediksi tingkat polusi di area yang tidak memiliki sensor pemantau fisik.
               </li>
               <li>
-                <strong>Kuantifikasi Ketidakpastian:</strong> Menganalisis parameter ketidakpastian spasial (uncertainty) hasil estimasi HBSTM untuk mengevaluasi keandalan prediksi di wilayah perkotaan Jakarta.
-              </li>
-              <li>
-                <strong>Rekomendasi Kebijakan:</strong> Menyediakan visualisasi GIS interaktif bagi pemangku kepentingan akademik dan praktisi lingkungan untuk memetakan prioritas mitigasi polusi udara.
+                <strong>Pengembangan Dasbor Interaktif:</strong> Mengembangkan aplikasi berbasis web dengan arsitektur penarikan data statis (pre-computed data dashboard) sebagai sarana visualisasi. Sistem ini memungkinkan pengguna mengeksplorasi peta tingkat risiko polusi (PM10) per kecamatan dan membandingkan performa metrik dari ketiga algoritma prediksi secara interaktif.
               </li>
             </ul>
           </div>
@@ -86,14 +80,20 @@ export default function AboutPage() {
 
             <div className="space-y-4 text-xs text-slate-600 leading-relaxed">
               <p>
-                Penelitian ini menggunakan dataset sekunder spasio-temporal kualitas udara Jakarta yang mencakup parameter meteorologi, data koordinat geografis (latitude/longitude), dan konsentrasi historis polutan PM10. 
+                Penelitian ini menggunakan data sekunder yang terdiri dari deret waktu harian konsentrasi polutan udara (Particulate Matter / PM10) beserta data koordinat stasiun pemantau.
               </p>
-              
+
               <div className="bg-slate-50 p-4 rounded-xl border border-slate-200/50 space-y-2.5">
+                <div>
+                  <span className="font-extrabold text-slate-850 uppercase text-[10px] tracking-wide block">Sumber Data dan Periode Observasi</span>
+                  <p className="text-slate-500 mt-0.5">
+                    Data historis PM10 diperoleh dari portal Satu Data Jakarta (melalui agregasi Kaggle). Data yang digunakan mencakup periode observasi aktif dari 1 Januari 2010 hingga 31 Desember 2024.
+                  </p>
+                </div>
                 <div>
                   <span className="font-extrabold text-slate-850 uppercase text-[10px] tracking-wide block">Cakupan Wilayah</span>
                   <p className="text-slate-500 mt-0.5">
-                    Analisis spasial mencakup unit administratif kecamatan di DKI Jakarta (Jakarta Pusat, Jakarta Utara, Jakarta Barat, Jakarta Selatan, Jakarta Timur).
+                    Observasi diambil dari lima stasiun resmi, yaitu DKI 1 (Bundaran HI), DKI 2 (Kelapa Gading), DKI 3 (Jagakarsa), DKI 4 (Lubang Buaya), dan DKI 5 (Kebon Jeruk).
                   </p>
                 </div>
                 <div>
@@ -123,27 +123,22 @@ export default function AboutPage() {
               <div className="w-20 h-20 bg-slate-100 rounded-full border border-slate-200 flex items-center justify-center text-slate-400 font-bold text-2xl shadow-inner mb-3">
                 J
               </div>
-              <h4 className="font-extrabold text-slate-800 text-sm">Jeson</h4>
+              <h4 className="font-extrabold text-slate-800 text-sm">Jeson Adhi Dharma</h4>
               <p className="text-[10px] text-slate-400 font-semibold tracking-wide mt-0.5">MAHASISWA PENELITI / MAHASISWA TUGAS AKHIR</p>
             </div>
 
             <div className="space-y-3.5 text-xs text-slate-600">
               <div>
                 <span className="font-bold text-slate-400 text-[10px] uppercase block">Institusi</span>
-                <span className="font-bold text-slate-800 text-[11px] mt-0.5 block">Universitas Indonesia</span>
+                <span className="font-bold text-slate-800 text-[11px] mt-0.5 block">BINUS University</span>
               </div>
               <div>
                 <span className="font-bold text-slate-400 text-[10px] uppercase block">Fakultas / Departemen</span>
-                <span className="font-bold text-slate-800 text-[11px] mt-0.5 block">Ilmu Komputer / Statistika Terapan</span>
-              </div>
-              <div>
-                <span className="font-bold text-slate-400 text-[10px] uppercase block">Dosen Pembimbing</span>
-                <span className="font-bold text-slate-800 text-[11px] mt-0.5 block">Prof. Dr. Ir. Pembimbing Utama</span>
-                <span className="font-semibold text-slate-500 text-[11px] block">Dr. Co-Pembimbing, M.Sc.</span>
+                <span className="font-bold text-slate-800 text-[11px] mt-0.5 block">Computer Science and Statistics</span>
               </div>
               <div>
                 <span className="font-bold text-slate-400 text-[10px] uppercase block">Kontak</span>
-                <span className="font-semibold text-slate-650 mt-0.5 block">jeson@mail.com</span>
+                <span className="font-semibold text-slate-650 mt-0.5 block">jeson.dharma@gmail.com</span>
               </div>
             </div>
           </div>

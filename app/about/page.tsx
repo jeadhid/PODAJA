@@ -138,7 +138,7 @@ export default function AboutPage() {
               </div>
               <div>
                 <span className="font-bold text-slate-400 text-[10px] uppercase block">Kontak</span>
-                <span className="font-semibold text-slate-650 mt-0.5 block">jeson.dharma@gmail.com</span>
+                <span className="font-semibold text-slate-650 mt-0.5 block">jeson.dharma@binus.ac.id</span>
               </div>
             </div>
           </div>
